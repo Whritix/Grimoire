@@ -13,7 +13,7 @@ import {
   PanelLeftClose,
   PanelLeft,
   Bot,
-  User
+  User //new
 } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
