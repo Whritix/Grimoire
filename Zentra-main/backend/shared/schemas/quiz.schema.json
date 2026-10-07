@@ -1,0 +1,152 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "definitions": {
+        "question": {
+            "type": "object",
+            "required": [
+                "id",
+                "q",
+                "type"
+            ],
+            "properties": {
+                "id": {
+                    "type": "string",
+                    "description": "Unique question identifier"
+                },
+                "q": {
+                    "type": "string",
+                    "description": "Question text"
+                },
+                "type": {
+                    "type": "string",
+                    "enum": [
+                        "mcq",
+                        "short",
+                        "code"
+                    ],
+                    "description": "Question type"
+                },
+                "choices": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "description": "Multiple choice options (for mcq type)"
+                },
+                "correct_answer": {
+                    "type": [
+                        "string",
+                        "integer"
+                    ],
+                    "description": "Correct answer (hidden from student)"
+                },
+                "difficulty": {
+                    "type": "string",
+                    "enum": [
+                        "easy",
+                        "medium",
+                        "hard"
+                    ]
+                },
+                "rationale": {
+                    "type": "string",
+                    "description": "Explanation for the correct answer"
+                },
+                "topic": {
+                    "type": "string",
+                    "description": "Related topic"
+                },
+                "rubric": {
+                    "type": "object",
+                    "properties": {
+                        "criteria": {
+                            "type": "array",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "description": {
+                                        "type": "string"
+                                    },
+                                    "points": {
+                                        "type": "number"
+                                    }
+                                }
+                            }
+                        },
+                        "max_score": {
+                            "type": "number"
+                        }
+                    },
+                    "description": "Grading rubric for open responses"
+                }
+            }
+        },
+        "grading_result": {
+            "type": "object",
+            "required": [
+                "question_id",
+                "score",
+                "feedback"
+            ],
+            "properties": {
+                "question_id": {
+                    "type": "string"
+                },
+                "score": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1,
+                    "description": "Score between 0.0 and 1.0"
+                },
+                "feedback": {
+                    "type": "string",
+                    "description": "Detailed feedback for the student"
+                },
+                "confidence": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1,
+                    "description": "Grading confidence"
+                },
+                "grading_rationale": {
+                    "type": "string",
+                    "description": "Explanation for the score"
+                },
+                "suggested_topics": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "description": "Topics for further study"
+                }
+            }
+        }
+    },
+    "oneOf": [
+        {
+            "type": "object",
+            "required": [
+                "questions"
+            ],
+            "properties": {
+                "questions": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/question"
+                    }
+                },
+                "lesson_id": {
+                    "type": "string"
+                },
+                "total_points": {
+                    "type": "number"
+                }
+            },
+            "description": "Generate mode response"
+        },
+        {
+            "$ref": "#/definitions/grading_result",
+            "description": "Grade mode response"
+        }
+    ]
+}

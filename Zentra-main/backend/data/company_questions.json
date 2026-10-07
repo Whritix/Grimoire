@@ -1,0 +1,2088 @@
+[
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Find the first non-repeating character in a string.",
+    "context": "Tests DSA fundamentals, clarity, edge cases.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Reverse a linked list iteratively.",
+    "context": "Tests DSA fundamentals, clarity, edge cases.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Check if a binary tree is height balanced.",
+    "context": "Tests DSA fundamentals, clarity, edge cases.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Find missing number in an array of size N.",
+    "context": "Tests DSA fundamentals, clarity, edge cases.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Detect cycle in a linked list.",
+    "context": "Tests DSA fundamentals, clarity, edge cases.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Implement stack using arrays.",
+    "context": "Tests DSA fundamentals, clarity, edge cases.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Count set bits in an integer.",
+    "context": "Tests DSA fundamentals, clarity, edge cases.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Merge two sorted arrays.",
+    "context": "Tests DSA fundamentals, clarity, edge cases.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Check if two strings are anagrams.",
+    "context": "Tests DSA fundamentals, clarity, edge cases.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Find max depth of binary tree.",
+    "context": "Tests DSA fundamentals, clarity, edge cases.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Longest substring without repeating characters.",
+    "context": "Algorithmic reasoning, optimization, graph thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Serialize and deserialize binary tree.",
+    "context": "Algorithmic reasoning, optimization, graph thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Kth largest element in a stream.",
+    "context": "Algorithmic reasoning, optimization, graph thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Word ladder shortest path.",
+    "context": "Algorithmic reasoning, optimization, graph thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "LRU cache implementation.",
+    "context": "Algorithmic reasoning, optimization, graph thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Number of islands in grid.",
+    "context": "Algorithmic reasoning, optimization, graph thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Top K frequent elements.",
+    "context": "Algorithmic reasoning, optimization, graph thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Validate binary search tree.",
+    "context": "Algorithmic reasoning, optimization, graph thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Longest palindromic substring.",
+    "context": "Algorithmic reasoning, optimization, graph thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Course schedule (topological sort).",
+    "context": "Algorithmic reasoning, optimization, graph thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Median of two sorted arrays.",
+    "context": "Deep problem solving, abstraction, performance.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Trapping rain water.",
+    "context": "Deep problem solving, abstraction, performance.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Merge K sorted lists.",
+    "context": "Deep problem solving, abstraction, performance.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Regular expression matching.",
+    "context": "Deep problem solving, abstraction, performance.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Alien dictionary ordering.",
+    "context": "Deep problem solving, abstraction, performance.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Maximum rectangle in histogram.",
+    "context": "Deep problem solving, abstraction, performance.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Shortest path with obstacles elimination.",
+    "context": "Deep problem solving, abstraction, performance.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Design autocomplete system.",
+    "context": "Deep problem solving, abstraction, performance.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Count smaller numbers after self.",
+    "context": "Deep problem solving, abstraction, performance.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Minimum window substring.",
+    "context": "Deep problem solving, abstraction, performance.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Two sum problem.",
+    "context": "Coding speed, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Reverse words in a string.",
+    "context": "Coding speed, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Implement queue using stacks.",
+    "context": "Coding speed, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Find intersection of two arrays.",
+    "context": "Coding speed, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Valid parentheses check.",
+    "context": "Coding speed, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Maximum subarray sum.",
+    "context": "Coding speed, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Check if linked list is palindrome.",
+    "context": "Coding speed, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Find duplicates in array.",
+    "context": "Coding speed, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Binary search implementation.",
+    "context": "Coding speed, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Fibonacci using DP.",
+    "context": "Coding speed, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Design rate limiter.",
+    "context": "System thinking + DSA balance.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Product of array except self.",
+    "context": "System thinking + DSA balance.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Longest increasing subsequence.",
+    "context": "System thinking + DSA balance.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Min stack design.",
+    "context": "System thinking + DSA balance.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Rotting oranges.",
+    "context": "System thinking + DSA balance.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Partition labels.",
+    "context": "System thinking + DSA balance.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Meeting rooms scheduling.",
+    "context": "System thinking + DSA balance.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Search in rotated sorted array.",
+    "context": "System thinking + DSA balance.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Implement trie.",
+    "context": "System thinking + DSA balance.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Decode string.",
+    "context": "System thinking + DSA balance.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Design distributed cache (conceptual).",
+    "context": "Ownership, scalability, trade-offs.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "LFU cache.",
+    "context": "Ownership, scalability, trade-offs.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Word search II.",
+    "context": "Ownership, scalability, trade-offs.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Minimum cost to connect ropes.",
+    "context": "Ownership, scalability, trade-offs.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Sliding window maximum.",
+    "context": "Ownership, scalability, trade-offs.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Design Amazon locker system.",
+    "context": "Ownership, scalability, trade-offs.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Maximum profit job scheduling.",
+    "context": "Ownership, scalability, trade-offs.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Design recommendation system (high level).",
+    "context": "Ownership, scalability, trade-offs.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "K closest points to origin.",
+    "context": "Ownership, scalability, trade-offs.",
+    "follow_ups": []
+  },
+  {
+    "company": "amazon",
+    "role": "sde",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Merge intervals with constraints.",
+    "context": "Ownership, scalability, trade-offs.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Reverse string in place.",
+    "context": "Fundamentals + communication.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Check palindrome number.",
+    "context": "Fundamentals + communication.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Implement hash map basics.",
+    "context": "Fundamentals + communication.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Find max element in stack.",
+    "context": "Fundamentals + communication.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Sum of digits recursion.",
+    "context": "Fundamentals + communication.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Binary tree inorder traversal.",
+    "context": "Fundamentals + communication.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Count vowels in string.",
+    "context": "Fundamentals + communication.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Implement basic calculator.",
+    "context": "Fundamentals + communication.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Find second largest element.",
+    "context": "Fundamentals + communication.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Merge sorted linked lists.",
+    "context": "Fundamentals + communication.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Clone graph.",
+    "context": "Structured problem solving.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Detect cycle in directed graph.",
+    "context": "Structured problem solving.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Spiral matrix traversal.",
+    "context": "Structured problem solving.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Implement priority queue.",
+    "context": "Structured problem solving.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Longest common subsequence.",
+    "context": "Structured problem solving.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Design file system.",
+    "context": "Structured problem solving.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Validate sudoku.",
+    "context": "Structured problem solving.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Search suggestions system.",
+    "context": "Structured problem solving.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Binary tree level order traversal.",
+    "context": "Structured problem solving.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Stock buy and sell with cooldown.",
+    "context": "Structured problem solving.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Design distributed key-value store.",
+    "context": "Design clarity + reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Word break II.",
+    "context": "Design clarity + reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Serialize N-ary tree.",
+    "context": "Design clarity + reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Skyline problem.",
+    "context": "Design clarity + reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Edit distance.",
+    "context": "Design clarity + reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Design task scheduler.",
+    "context": "Design clarity + reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Maximum sum rectangle in matrix.",
+    "context": "Design clarity + reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Shortest path in weighted graph.",
+    "context": "Design clarity + reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Design search autocomplete.",
+    "context": "Design clarity + reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "microsoft",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Cache eviction strategies comparison.",
+    "context": "Design clarity + reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Remove duplicates from sorted array.",
+    "context": "Speed + correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Find pivot index.",
+    "context": "Speed + correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Implement BFS.",
+    "context": "Speed + correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Reverse integer safely.",
+    "context": "Speed + correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Merge strings alternately.",
+    "context": "Speed + correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Valid palindrome string.",
+    "context": "Speed + correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Count primes.",
+    "context": "Speed + correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Fibonacci iterative.",
+    "context": "Speed + correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Check power of two.",
+    "context": "Speed + correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Move zeroes.",
+    "context": "Speed + correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Graph bipartite check.",
+    "context": "Performance under pressure.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Subarray sum equals K.",
+    "context": "Performance under pressure.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Course schedule II.",
+    "context": "Performance under pressure.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Random pick with weight.",
+    "context": "Performance under pressure.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Implement Union Find.",
+    "context": "Performance under pressure.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Longest repeating character replacement.",
+    "context": "Performance under pressure.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Accounts merge.",
+    "context": "Performance under pressure.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Design news feed.",
+    "context": "Performance under pressure.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Evaluate reverse polish notation.",
+    "context": "Performance under pressure.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "K closest elements.",
+    "context": "Performance under pressure.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Design Facebook feed ranking (high-level).",
+    "context": "Scale, optimization, system intuition.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Maximal rectangle in binary matrix.",
+    "context": "Scale, optimization, system intuition.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Shortest path in DAG.",
+    "context": "Scale, optimization, system intuition.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Word ladder II.",
+    "context": "Scale, optimization, system intuition.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Serialize binary tree with constraints.",
+    "context": "Scale, optimization, system intuition.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Design friend recommendation engine.",
+    "context": "Scale, optimization, system intuition.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Median stream design.",
+    "context": "Scale, optimization, system intuition.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Multi-source BFS problem.",
+    "context": "Scale, optimization, system intuition.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Optimize ad targeting system.",
+    "context": "Scale, optimization, system intuition.",
+    "follow_ups": []
+  },
+  {
+    "company": "meta",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "DSA",
+    "question": "Distributed graph traversal discussion.",
+    "context": "Scale, optimization, system intuition.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "easy",
+    "category": "Backend",
+    "question": "API pagination basics.",
+    "context": "Practical backend knowledge.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "easy",
+    "category": "Backend",
+    "question": "HTTP vs HTTPS.",
+    "context": "Practical backend knowledge.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "easy",
+    "category": "Backend",
+    "question": "REST vs GraphQL.",
+    "context": "Practical backend knowledge.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "easy",
+    "category": "Backend",
+    "question": "Database indexing basics.",
+    "context": "Practical backend knowledge.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "easy",
+    "category": "Backend",
+    "question": "JSON parsing.",
+    "context": "Practical backend knowledge.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "easy",
+    "category": "Backend",
+    "question": "Retry mechanisms.",
+    "context": "Practical backend knowledge.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "easy",
+    "category": "Backend",
+    "question": "Rate limiting basics.",
+    "context": "Practical backend knowledge.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "easy",
+    "category": "Backend",
+    "question": "Logging best practices.",
+    "context": "Practical backend knowledge.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "easy",
+    "category": "Backend",
+    "question": "Cache fundamentals.",
+    "context": "Practical backend knowledge.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "easy",
+    "category": "Backend",
+    "question": "Load balancer basics.",
+    "context": "Practical backend knowledge.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Backend",
+    "question": "Design video metadata service.",
+    "context": "Trade-offs & reliability.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Backend",
+    "question": "Cache eviction strategies.",
+    "context": "Trade-offs & reliability.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Backend",
+    "question": "Horizontal vs vertical scaling.",
+    "context": "Trade-offs & reliability.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Backend",
+    "question": "Idempotent APIs.",
+    "context": "Trade-offs & reliability.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Backend",
+    "question": "Circuit breaker pattern.",
+    "context": "Trade-offs & reliability.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Backend",
+    "question": "Database sharding.",
+    "context": "Trade-offs & reliability.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Backend",
+    "question": "Observability metrics.",
+    "context": "Trade-offs & reliability.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Backend",
+    "question": "Async processing pipelines.",
+    "context": "Trade-offs & reliability.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Backend",
+    "question": "Event-driven architecture.",
+    "context": "Trade-offs & reliability.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Backend",
+    "question": "CDN working principles.",
+    "context": "Trade-offs & reliability.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Backend",
+    "question": "Design Netflix streaming pipeline.",
+    "context": "Senior-level reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Backend",
+    "question": "Handling regional content restrictions.",
+    "context": "Senior-level reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Backend",
+    "question": "Real-time personalization engine.",
+    "context": "Senior-level reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Backend",
+    "question": "Fault tolerance at scale.",
+    "context": "Senior-level reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Backend",
+    "question": "Distributed tracing design.",
+    "context": "Senior-level reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Backend",
+    "question": "Schema evolution strategies.",
+    "context": "Senior-level reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Backend",
+    "question": "SLA vs SLO vs SLI.",
+    "context": "Senior-level reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Backend",
+    "question": "Consistency models comparison.",
+    "context": "Senior-level reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Backend",
+    "question": "Chaos engineering principles.",
+    "context": "Senior-level reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "netflix",
+    "role": "backend_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Backend",
+    "question": "Designing for failure discussion.",
+    "context": "Senior-level reasoning.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "Data",
+    "question": "SQL SELECT basics.",
+    "context": "Accuracy & correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "Data",
+    "question": "Primary vs foreign key.",
+    "context": "Accuracy & correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "Data",
+    "question": "ACID properties.",
+    "context": "Accuracy & correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "Data",
+    "question": "Data normalization.",
+    "context": "Accuracy & correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "Data",
+    "question": "Array rotation.",
+    "context": "Accuracy & correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "Data",
+    "question": "Count occurrences in array.",
+    "context": "Accuracy & correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "Data",
+    "question": "Error handling basics.",
+    "context": "Accuracy & correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "Data",
+    "question": "Secure password storage.",
+    "context": "Accuracy & correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "Data",
+    "question": "Input validation.",
+    "context": "Accuracy & correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "Data",
+    "question": "Basic transaction flow.",
+    "context": "Accuracy & correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Data",
+    "question": "Detect fraudulent transactions logic.",
+    "context": "Financial system thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Data",
+    "question": "Window functions in SQL.",
+    "context": "Financial system thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Data",
+    "question": "Idempotent payment APIs.",
+    "context": "Financial system thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Data",
+    "question": "Database locking.",
+    "context": "Financial system thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Data",
+    "question": "Data consistency checks.",
+    "context": "Financial system thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Data",
+    "question": "Retry vs rollback.",
+    "context": "Financial system thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Data",
+    "question": "Secure API design.",
+    "context": "Financial system thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Data",
+    "question": "Payment reconciliation logic.",
+    "context": "Financial system thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Data",
+    "question": "Event sourcing basics.",
+    "context": "Financial system thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Data",
+    "question": "Latency optimization techniques.",
+    "context": "Financial system thinking.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Data",
+    "question": "Design high-throughput payment gateway.",
+    "context": "Reliability, security, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Data",
+    "question": "Exactly-once processing.",
+    "context": "Reliability, security, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Data",
+    "question": "PCI compliance considerations.",
+    "context": "Reliability, security, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Data",
+    "question": "Handling double spending.",
+    "context": "Reliability, security, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Data",
+    "question": "Distributed transaction design.",
+    "context": "Reliability, security, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Data",
+    "question": "Fraud detection system design.",
+    "context": "Reliability, security, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Data",
+    "question": "Time-series data modeling.",
+    "context": "Reliability, security, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Data",
+    "question": "Failure recovery strategy.",
+    "context": "Reliability, security, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Data",
+    "question": "Secure key management.",
+    "context": "Reliability, security, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "visa",
+    "role": "software_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Data",
+    "question": "Auditing and traceability system.",
+    "context": "Reliability, security, correctness.",
+    "follow_ups": []
+  },
+  {
+    "company": "google",
+    "role": "frontend_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Frontend",
+    "question": "Explain the Critical Rendering Path and how you would optimize it.",
+    "context": "Tests understanding of browser internals and performance.",
+    "follow_ups": [
+      "How does async vs defer script loading affect this?",
+      "What is layout thrashing?"
+    ]
+  },
+  {
+    "company": "google",
+    "role": "sre",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "System",
+    "question": "A server is unreachable via SSH but responds to Ping. How do you troubleshoot?",
+    "context": "Tests systematic troubleshooting and Linux knowledge.",
+    "follow_ups": [
+      "What if the disk is full?",
+      "How do you check for firewall drops?"
+    ]
+  },
+  {
+    "company": "amazon",
+    "role": "frontend_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Frontend",
+    "question": "Design a star rating widget. How do you handle accessibility and partial stars?",
+    "context": "Customer obsession and attention to detail.",
+    "follow_ups": [
+      "How do you handle keyboard navigation?",
+      "How to make it performant with 1000 widgets on page?"
+    ]
+  },
+  {
+    "company": "amazon",
+    "role": "data_engineer",
+    "experience": "mid",
+    "difficulty": "hard",
+    "category": "Data",
+    "question": "Design a data pipeline to handle widely varying traffic spikes from Prime Day.",
+    "context": "Scalability and trade-offs.",
+    "follow_ups": [
+      "Kinesis vs Kafka?",
+      "How to handle duplicate events?"
+    ]
+  },
+  {
+    "company": "microsoft",
+    "role": "data_scientist",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "ML",
+    "question": "Explain the Bias-Variance tradeoff. How do you detect which one is suffering?",
+    "context": "Fundamentals of ML theory.",
+    "follow_ups": [
+      "Does adding more data help high bias?",
+      "What about regularization?"
+    ]
+  },
+  {
+    "company": "microsoft",
+    "role": "product_manager",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Product",
+    "question": "How would you measure the success of a new search feature in VS Code?",
+    "context": "Metric selection and user empathy.",
+    "follow_ups": [
+      "What is a counter-metric?",
+      "How to handle negative user feedback?"
+    ]
+  },
+  {
+    "company": "meta",
+    "role": "data_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "SQL",
+    "question": "Write a SQL query to find the top 3 items sold in each category by day.",
+    "context": "SQL window functions and analytics.",
+    "follow_ups": [
+      "How to optimize this for petabyte scale?",
+      "Window functions vs Group By execution?"
+    ]
+  },
+  {
+    "company": "meta",
+    "role": "product_designer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Design",
+    "question": "Critique the 'Friend Request' flow. How would you improve it for emerging markets?",
+    "context": "Product thinking and visual design.",
+    "follow_ups": [
+      "Constraints of low-end devices?",
+      "Data usage considerations?"
+    ]
+  },
+  {
+    "company": "netflix",
+    "role": "data_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Big Data",
+    "question": "Compare Parquet vs Avro for our data lake. Which one for read-heavy vs write-heavy?",
+    "context": "Storage formats and query optimization.",
+    "follow_ups": [
+      "Schema evolution support?",
+      "Compression efficiency?"
+    ]
+  },
+  {
+    "company": "netflix",
+    "role": "ui_engineer",
+    "experience": "senior",
+    "difficulty": "hard",
+    "category": "Frontend",
+    "question": "How would you architect a TV UI that needs to run smoothly on very low-power set-top boxes?",
+    "context": "Performance under extreme constraints.",
+    "follow_ups": [
+      "Memory management strategies?",
+      "Compositing layers?"
+    ]
+  },
+  {
+    "company": "visa",
+    "role": "product_manager",
+    "experience": "mid",
+    "difficulty": "hard",
+    "category": "Product",
+    "question": "A transaction success rate drops by 1% globally. What is your investigation process?",
+    "context": "Crisis management and analytical thinking.",
+    "follow_ups": [
+      "Who do you alert first?",
+      "How to distinguish network vs issuer issues?"
+    ]
+  },
+  {
+    "company": "visa",
+    "role": "qa_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "Testing",
+    "question": "Design a test strategy for a payment API that cannot use real money in production testing.",
+    "context": "Testing methodologies and safety.",
+    "follow_ups": [
+      "Mocking vs Sandboxing?",
+      "Security testing?"
+    ]
+  },
+  {
+    "company": "infosys",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "DSA",
+    "question": "Write a program to reverse a string without using built-in functions.",
+    "context": "Basic coding and logic.",
+    "follow_ups": [
+      "Time complexity?",
+      "Handle null input?"
+    ]
+  },
+  {
+    "company": "infosys",
+    "role": "software_engineer",
+    "experience": "entry",
+    "difficulty": "medium",
+    "category": "Java",
+    "question": "Explain the difference between Abstract Class and Interface in Java.",
+    "context": "OOPS concepts.",
+    "follow_ups": [
+      "When to use which?",
+      "Default methods in interface?"
+    ]
+  },
+  {
+    "company": "infosys",
+    "role": "systems_engineer",
+    "experience": "entry",
+    "difficulty": "medium",
+    "category": "OS",
+    "question": "What is the difference between specific Process and Thread?",
+    "context": "OS fundamentals.",
+    "follow_ups": [
+      "Memory sharing?",
+      "Context switching cost?"
+    ]
+  },
+  {
+    "company": "infosys",
+    "role": "technology_analyst",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "System Design",
+    "question": "Explain the Singleton design pattern and a scenario where you used it.",
+    "context": "Design patterns.",
+    "follow_ups": [
+      "Is it thread safe?",
+      "Double checked locking?"
+    ]
+  },
+  {
+    "company": "tcs",
+    "role": "assistant_system_engineer",
+    "experience": "entry",
+    "difficulty": "easy",
+    "category": "Logic",
+    "question": "Swap two numbers without using a third variable.",
+    "context": "Logical reasoning.",
+    "follow_ups": [
+      "Using XOR?",
+      "Overflow issues?"
+    ]
+  },
+  {
+    "company": "tcs",
+    "role": "system_engineer",
+    "experience": "mid",
+    "difficulty": "medium",
+    "category": "DB",
+    "question": "What is normalization? Explain 1NF, 2NF, 3NF.",
+    "context": "Database fundamentals.",
+    "follow_ups": [
+      "Denormalization?",
+      "Performance impact?"
+    ]
+  },
+  {
+    "company": "tcs",
+    "role": "digital_innovator",
+    "experience": "mid",
+    "difficulty": "hard",
+    "category": "Cloud",
+    "question": "How does cloud elasticity differ from scalability?",
+    "context": "Cloud concepts.",
+    "follow_ups": [
+      "Vertical vs Horizontal scaling?",
+      "Cost implications?"
+    ]
+  },
+  {
+    "company": "goldmansachs",
+    "role": "technology_analyst",
+    "experience": "entry",
+    "difficulty": "medium",
+    "category": "DSA",
+    "question": "Find the first non-repeating character in a stream of characters.",
+    "context": "DSA and HashMaps.",
+    "follow_ups": [
+      "Time complexity?",
+      "Using a queue?"
+    ]
+  },
+  {
+    "company": "goldmansachs",
+    "role": "associate",
+    "experience": "mid",
+    "difficulty": "hard",
+    "category": "System Design",
+    "question": "Design a real-time stock price ticker system.",
+    "context": "Low latency system design.",
+    "follow_ups": [
+      "WebSocket vs Polling?",
+      "Handling packet loss?"
+    ]
+  },
+  {
+    "company": "goldmansachs",
+    "role": "quant_strategist",
+    "experience": "mid",
+    "difficulty": "hard",
+    "category": "Math",
+    "question": "What is the expected number of tosses to get two consecutive heads?",
+    "context": "Probability puzzle.",
+    "follow_ups": [
+      "Three consecutive heads?",
+      "Markov chain approach?"
+    ]
+  }
+]

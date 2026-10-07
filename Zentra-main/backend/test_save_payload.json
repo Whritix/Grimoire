@@ -1,0 +1,8 @@
+{
+  "user_id": "test_user",
+  "subject": "Test Subject",
+  "goal": "exam_prep",
+  "notes": "This is a test note with at least 50 characters to pass validation requirements.",
+  "analysis_result": {"summary": "Test summary"},
+  "mindmap_result": null
+}

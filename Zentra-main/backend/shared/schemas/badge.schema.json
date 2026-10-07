@@ -1,0 +1,108 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "required": [
+        "badge_id",
+        "status"
+    ],
+    "properties": {
+        "badge_id": {
+            "type": "string",
+            "description": "Unique badge identifier"
+        },
+        "status": {
+            "type": "string",
+            "enum": [
+                "issued",
+                "pending",
+                "rejected"
+            ],
+            "description": "Badge status"
+        },
+        "signed_claim": {
+            "type": "string",
+            "description": "Cryptographically signed claim (HMAC)"
+        },
+        "verify_url": {
+            "type": "string",
+            "format": "uri",
+            "description": "URL to verify the badge"
+        },
+        "issued_at": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "expires_at": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "metadata": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "description": "Badge name"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "criteria": {
+                    "type": "string",
+                    "description": "What was required to earn this"
+                },
+                "issuer": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "url": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "recipient": {
+                    "type": "object",
+                    "properties": {
+                        "user_id": {
+                            "type": "string"
+                        },
+                        "name": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        },
+        "evidence": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "type": {
+                        "type": "string",
+                        "enum": [
+                            "assessment",
+                            "project",
+                            "lesson_completion",
+                            "checkpoint"
+                        ]
+                    },
+                    "id": {
+                        "type": "string"
+                    },
+                    "score": {
+                        "type": "number"
+                    },
+                    "completed_at": {
+                        "type": "string"
+                    },
+                    "url": {
+                        "type": "string"
+                    }
+                }
+            },
+            "description": "Evidence supporting badge award"
+        }
+    }
+}

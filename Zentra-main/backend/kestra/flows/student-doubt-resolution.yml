@@ -1,0 +1,63 @@
+id: student-doubt-resolution
+namespace: teaching-assistant
+description: Handles student doubt resolution using RAG-based AI Agent
+
+inputs:
+  - id: question
+    type: STRING
+    defaults: "How do I solve quadratic equations?"
+  - id: subject
+    type: STRING
+    defaults: "Mathematics"
+  - id: context
+    type: STRING
+    defaults: "Algebra chapter 5"
+
+tasks:
+  - id: process-doubt
+    type: io.kestra.plugin.core.http.Request
+    uri: "http://host.docker.internal:8000/v1/agents/doubt-assistant"
+    method: POST
+    contentType: application/json
+    body: |
+      {
+        "messages": [
+          {
+            "role": "user",
+            "content": "Subject: {{ inputs.subject }}\nContext: {{ inputs.context }}\n\nStudent Question: {{ inputs.question }}"
+          }
+        ]
+      }
+    timeout: PT60S
+
+  - id: retrieve-references
+    type: io.kestra.plugin.core.http.Request
+    uri: "http://host.docker.internal:8000/v1/agents/retriever"
+    method: POST
+    contentType: application/json
+    body: |
+      {
+        "messages": [
+          {
+            "role": "user",
+            "content": "Find additional learning resources related to: {{ inputs.question }} in {{ inputs.subject }}."
+          }
+        ]
+      }
+    timeout: PT60S
+
+  - id: summarize-answer
+    type: io.kestra.plugin.core.http.Request
+    uri: "http://host.docker.internal:8000/v1/agents/summarize"
+    method: POST
+    contentType: application/json
+    body: |
+      {
+        "messages": [
+          {
+            "role": "user",
+            "content": "Summarize the solution for the student's question about {{ inputs.question }} in a concise, easy-to-understand format."
+          }
+        ]
+      }
+    timeout: PT60S

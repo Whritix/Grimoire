@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  # Redis for caching and rate limiting
+  redis:
+    image: redis:7-alpine
+    container_name: learning-platform-redis
+    ports:
+      - '6379:6379'
+    volumes:
+      - redis-data:/data
+    command: redis-server --appendonly yes
+    restart: unless-stopped
+    healthcheck:
+      test: ['CMD', 'redis-cli', 'ping']
+      interval: 10s
+      timeout: 3s
+      retries: 3
+
+  # ChromaDB for vector storage (optional - commented out for now)
+  # Uncomment if you want to add RAG functionality
+  # chromadb:
+  #   image: chromadb/chroma:latest
+  #   container_name: learning-platform-chromadb
+  #   ports:
+  #     - '8000:8000'
+  #   volumes:
+  #     - chroma-data:/chroma/chroma
+  #   environment:
+  #     - ALLOW_RESET=TRUE
+  #     - IS_PERSISTENT=TRUE
+  #   restart: unless-stopped
+
+volumes:
+  redis-data:
+    driver: local
+  # chroma-data:
+  #   driver: local

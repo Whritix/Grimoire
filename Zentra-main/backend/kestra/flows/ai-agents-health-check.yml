@@ -1,0 +1,16 @@
+id: ai-agents-health-check
+namespace: teaching-assistant
+description: Health check flow for all AI Agents
+
+tasks:
+  - id: check-system-health
+    type: io.kestra.plugin.core.http.Request
+    uri: "http://host.docker.internal:8000/v1/agents/health"
+    method: GET
+    timeout: PT30S
+
+triggers:
+  - id: schedule
+    type: io.kestra.plugin.core.trigger.Schedule
+    cron: "*/5 * * * *"
+    disabled: true

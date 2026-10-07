@@ -1,0 +1,4029 @@
+{
+  "user_1765293114894_w34b1dbr7": {
+    "activities": [
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-09T15:11:54.910650",
+        "data": {
+          "timestamp": "2025-12-09T15:11:54.894Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:12:24.052489",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:13:53.997643",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:13:54.863047",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:13:55.582675",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:13:56.484429",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:14:22.532459",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:14:55.877757",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:15:25.513937",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:15:30.066657",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-09T15:16:35.252856",
+        "data": {
+          "timestamp": "2025-12-09T15:16:35.241Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-09T15:16:50.585056",
+        "data": {
+          "timestamp": "2025-12-09T15:16:50.579Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:17:08.268356",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:17:15.468491",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:17:22.252064",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:18:45.608616",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:21:47.689152",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:21:55.080076",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:21:55.241272",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:21:55.396387",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T15:57:55.549241",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-09T16:07:29.286511",
+        "data": {
+          "timestamp": "2025-12-09T16:07:29.265Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:07:34.045748",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:10:20.316516",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:10:30.982535",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:10:35.483660",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:10:42.025767",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:10:45.851179",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:10:56.923925",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:11:41.869683",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:11:51.276090",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:13:07.238841",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-09T16:14:57.327184",
+        "data": {
+          "timestamp": "2025-12-09T16:14:57.321Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:14:59.136125",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:15:31.354713",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:17:04.101050",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:18:08.356315",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:18:08.673098",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:18:09.400972",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:18:10.145033",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:18:15.768708",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:18:39.306932",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-09T16:18:56.790001",
+        "data": {
+          "timestamp": "2025-12-09T16:18:56.785Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-09T16:18:58.066391",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T04:17:38.054391",
+        "data": {
+          "timestamp": "2025-12-10T04:17:38.041Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T04:17:39.773136",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T04:17:44.571102",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T04:21:05.652159",
+        "data": {
+          "timestamp": "2025-12-10T04:21:05.617Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T04:21:07.264003",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T04:25:27.556386",
+        "data": {
+          "timestamp": "2025-12-10T04:25:27.553Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T04:34:05.428732",
+        "data": {
+          "timestamp": "2025-12-10T04:34:05.417Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T04:34:08.098166",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T04:41:36.458112",
+        "data": {
+          "timestamp": "2025-12-10T04:41:36.452Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T04:41:37.611875",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T04:42:29.665796",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T04:42:39.918947",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T04:42:39.924165",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T04:42:49.408779",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T04:42:51.595880",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T04:44:01.725080",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T04:44:02.245206",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T04:44:05.746183",
+        "data": {
+          "timestamp": "2025-12-10T04:44:05.740Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T04:44:06.788990",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T06:31:38.076857",
+        "data": {
+          "timestamp": "2025-12-10T06:31:38.032Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T06:45:23.067887",
+        "data": {
+          "timestamp": "2025-12-10T06:45:23.034Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T06:45:24.589510",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T06:49:38.299143",
+        "data": {
+          "timestamp": "2025-12-10T06:49:38.255Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T06:49:40.118119",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T06:52:04.203697",
+        "data": {
+          "timestamp": "2025-12-10T06:52:04.143Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T06:52:05.198998",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T06:52:05.980044",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T06:57:30.138346",
+        "data": {
+          "timestamp": "2025-12-10T06:57:30.113Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T06:57:31.164265",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T06:59:42.137026",
+        "data": {
+          "timestamp": "2025-12-10T06:59:42.096Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T06:59:43.856567",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T07:00:02.944412",
+        "data": {
+          "question": "what you know about me",
+          "answer": "As an AI, I don't have personal memory or the ability to \"know\" you in the way a human does. My knowledge is limited to the information you provide during our current conversation and the general instructions I've been given.\n\nBased on our interaction so far, here's what I know:\n\n1.  **Your Preferred Difficulty Level**: You've indicated that you prefer an **intermediate** difficulty level for explanations and topics. This helps me tailor my responses to be neither too basic nor too advanced.\n2.  **Your Current Question**: You are asking \"what you know about me,\" which suggests you might be curious about how AI models process information or what data they retain.\n\nI don't store any personal identifiable information about you, nor do I have access to your identity, past conversations (beyond the current session's history), or any personal details. My purpose is to assist you with learning by processing the text you provide and generating helpful responses based on my training data and th",
+          "mode": "hybrid",
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T07:04:46.927007",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T07:08:24.760408",
+        "data": {
+          "timestamp": "2025-12-10T07:08:24.722Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T07:11:52.155456",
+        "data": {
+          "timestamp": "2025-12-10T07:11:52.138Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T07:12:20.522041",
+        "data": {
+          "timestamp": "2025-12-10T07:12:20.469Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T07:17:52.457554",
+        "data": {
+          "timestamp": "2025-12-10T07:17:52.417Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T07:18:35.462437",
+        "data": {
+          "timestamp": "2025-12-10T07:18:35.412Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T16:41:34.985765",
+        "data": {
+          "timestamp": "2025-12-10T16:41:34.964Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:41:44.508449",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:41:46.830370",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:41:48.417944",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T16:42:21.745688",
+        "data": {
+          "timestamp": "2025-12-10T16:42:21.736Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:45:15.292423",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T16:45:51.968578",
+        "data": {
+          "question": "what is my current learning process",
+          "answer": "While I don't have specific information about *your personal* learning activities, I can explain what a typical and effective **learning process** generally looks like, especially for someone at an **intermediate difficulty level**. Understanding this general framework can help you reflect on your own approach and identify areas for optimization.\n\nA learning process isn't a single event; it's an **iterative cycle** of acquiring, applying, and refining knowledge and skills. For an intermediate learner, it often involves moving beyond basic syntax to deeper conceptual understanding, problem-solving, and practical application.\n\nHere's a breakdown of common stages in an effective learning process:\n\n## 1. Foundation & Conceptual Understanding\nEven at an intermediate level, a strong foundation is crucial. This stage involves:\n*   **Revisiting Core Concepts**: Ensuring you truly understand the \"why\" behind what you're doing, not just the \"how.\"\n*   **Deep Dive into Theory**: Exploring the und",
+          "mode": "hybrid",
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:46:18.297309",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:46:22.205699",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:46:24.085145",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:51:01.544870",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:51:10.760764",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:51:19.278669",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:51:20.667642",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:51:20.986153",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:51:21.476592",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:51:22.128840",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T16:54:59.698675",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T17:01:01.235813",
+        "data": {
+          "timestamp": "2025-12-10T17:01:01.216Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:01:05.187435",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:03:59.910926",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T17:04:00.871493",
+        "data": {
+          "timestamp": "2025-12-10T17:04:00.864Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:04:11.837865",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:05:56.188582",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:06:09.557170",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:06:46.016602",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:08:51.286915",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T17:09:26.026091+00:00",
+        "data": {
+          "question": "wnat is my current learning progress",
+          "answer": "It's great that you're thinking about your learning progress!\n\nAs an AI, I don't have access to your personal learning history, what specific topics you've studied, or any external data about your educational journey. Therefore, I can't tell you your exact \"current learning progress.\"\n\nHowever, I can help you understand **how to define and track your own learning progress** effectively. This is a crucial skill for any learner, especially at an intermediate level where you're likely tackling more complex subjects.\n\nLet's break down how you can assess your own progress:\n\n## How to Track Your Learning Progress\n\nTo truly understand your progress, you need a clear starting point and a way to measure your journey.\n\n### 1. Define Your Learning Goals\nBefore you can track progress, you need to know what you're progressing *towards*.\n*   **What specific skills or knowledge do you want to acquire?**\n*   **What projects do you want to be able to complete?**\n*   **What level of understanding do you",
+          "mode": "hybrid",
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:10:36.534822+00:00",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:15:25.421811+00:00",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T17:15:25.424316+00:00",
+        "data": {
+          "timestamp": "2025-12-10T17:15:17.923Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:15:25.426041+00:00",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T17:15:35.099461+00:00",
+        "data": {
+          "question": "What is my learning progress",
+          "answer": "It's great that you're thinking about your learning progress!\n\nAs an AI, I don't have memory of your past interactions or specific learning activities unless you've shared them with me in our current conversation. I don't store personal data or track your learning journey outside of our immediate chat.\n\nTo help you understand your progress, I need a bit more context. Could you tell me:\n\n1.  **What topic or skill are you currently learning or interested in?** (e.g., Python programming, web development, data structures, a specific algorithm, etc.)\n2.  **What have you learned so far about this topic?** (e.g., \"I know basic Python syntax,\" \"I've built a simple HTML page,\" \"I understand what a linked list is.\")\n3.  **What are your learning goals?** (e.g., \"I want to be able to build a full-stack web application,\" \"I want to pass a coding interview,\" \"I want to understand object-oriented programming.\")\n\nOnce I have a better idea of what you're working on, I can help you assess where you migh",
+          "mode": "hybrid",
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:19:19.479250+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T17:25:21.932201+00:00",
+        "data": {
+          "timestamp": "2025-12-10T17:25:21.922Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:25:23.059812+00:00",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:25:33.976852+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T17:25:40.729432+00:00",
+        "data": {
+          "question": "What is my learning progress?",
+          "answer": "It's great that you're thinking about your learning progress! As an AI, I don't have a persistent memory of our past conversations or a way to track your specific learning journey across different sessions or topics unless you've explicitly shared that information within our current interaction.\n\nTherefore, I can't tell you your exact learning progress without more context.\n\nHowever, I can help you understand **how to define and track your own learning progress** effectively. This is a crucial skill for any learner!\n\n---\n\n# Understanding and Tracking Your Learning Progress\n\nTracking your learning progress involves understanding where you started, where you want to go, and what milestones you've achieved along the way. It's not just about how much time you've spent, but what **skills you've acquired** and **knowledge you've internalized**.\n\n## Why Track Progress?\n*   **Motivation:** Seeing tangible progress keeps you motivated.\n*   **Direction:** Helps you identify what to learn next an",
+          "mode": "hybrid",
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:25:45.120100+00:00",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:26:00.682507+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:26:02.223159+00:00",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:26:04.591843+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:26:08.884698+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T17:27:54.987069+00:00",
+        "data": {
+          "timestamp": "2025-12-10T17:27:54.922Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:27:58.759776+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T17:28:44.215430+00:00",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "```json\n{\n  \"answer\": \"Alright, as your expert Professor and Teaching Assistant, let's embark on a comprehensive journey into **Python Fundamentals for Machine Learning**. This is the bedrock upon which all your future machine learning endeavors will be built. We'll start from the ground up, ensuring you grasp not just *what* to do, but *why* and *how* it's done, with an eye towards its application in the world of ML.\\n\\n---\\n\\n# Python Fundamentals for Machine Learning: A Deep Dive\\n\\n## 1. Introduction: Python as the Universal Language of ML\\n\\nImagine you're a master chef, and your goal is to create exquisite dishes (machine learning models) that can predict future trends, classify images, or understand human language. To do this, you need a versatile kitchen, high-quality ingredients, and specialized tools. In our analogy:\\n\\n*   **Python is your kitchen's universal language.** It's the common tongue spoken by all the ingredients and tools, allowing them to interact seamlessly. It'",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T17:30:24.079269+00:00",
+        "data": {
+          "timestamp": "2025-12-10T17:30:24.035Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:30:28.619673+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T17:31:11.235955+00:00",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "```json\n{\n  \"answer\": \"Alright, as your expert Professor and Teaching Assistant, let's embark on a comprehensive journey into **Python Fundamentals for Machine Learning**. This is the bedrock upon which all your future machine learning endeavors will be built. We'll start from the ground up, ensuring you grasp not just *what* to do, but *why* and *how* it's done, with an eye towards its application in the world of ML.\\n\\n---\\n\\n# Python Fundamentals for Machine Learning: A Deep Dive\\n\\n## 1. Introduction: Python as the Universal Language of ML\\n\\nImagine you're a master chef, and your goal is to create exquisite dishes (machine learning models) that can predict future trends, classify images, or understand human language. To do this, you need a versatile kitchen, high-quality ingredients, and specialized tools. In our analogy:\\n\\n*   **Python is your kitchen's universal language.** It's the common tongue spoken by all the ingredients and tools, allowing them to interact seamlessly. It'",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T17:33:49.339978+00:00",
+        "data": {
+          "timestamp": "2025-12-10T17:33:49.306Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:33:53.188160+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T17:34:37.523644+00:00",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "Alright, as your expert Professor and Teaching Assistant, let's embark on a comprehensive journey into **Python Fundamentals for Machine Learning**. This is the bedrock upon which all your future machine learning endeavors will be built. We'll start from the ground up, ensuring you grasp not just *what* to do, but *why* and *how* it's done, with an eye towards its application in the world of ML.\n\n---\n\n# Python Fundamentals for Machine Learning: A Deep Dive\n\n## 1. Introduction: Python as the Universal Language of ML\n\nImagine you're a master chef, and your goal is to create exquisite dishes (machine learning models) that can predict future trends, classify images, or understand human language. To do this, you need a versatile kitchen, high-quality ingredients, and specialized tools. In our analogy:\n\n*   **Python is your kitchen's universal language.** It's the common tongue spoken by all the ingredients and tools, allowing them to interact seamlessly. It's easy to learn, yet powerful eno",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T17:35:57.285004+00:00",
+        "data": {
+          "question": "explain loops even more",
+          "answer": "Excellent! Let's dive even deeper into the world of **loops** in Python. As your Professor, I want to ensure you don't just know *how* to write a loop, but truly understand the underlying mechanics, their power, and their pitfalls, especially as they apply to Machine Learning.\n\n---\n\n### 2.4. Control Flow: Loops (`for`, `while`) - EXTREME DETAIL\n\n**What:** Loops are fundamental programming constructs that allow you to execute a block of code repeatedly. Instead of writing the same lines of code multiple times, a loop automates this repetition based on a condition or a sequence of items.\n\n**Why:** In Machine Learning, data is often processed in batches, algorithms iterate through many steps, and models are trained over numerous \"epochs.\" Loops are the workhorses that enable these repetitive tasks:\n*   **Data Processing:** Iterating through rows of a dataset, processing each feature, or cleaning individual data points.\n*   **Model Training:** Running an optimization algorithm (like gradie",
+          "mode": "hybrid",
+          "topics": [
+            "explain",
+            "loops",
+            "even",
+            "more"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T17:39:05.141103+00:00",
+        "data": {
+          "timestamp": "2025-12-10T17:39:05.093Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:39:11.883564+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T17:40:08.046920+00:00",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Essential Mathematics and Statistics for ML\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "Alright, my aspiring machine learning expert! As your dedicated Professor and Teaching Assistant, we've laid the groundwork with Python fundamentals. Now, it's time to delve into the very language that allows us to understand and build these intelligent systems: **Essential Mathematics and Statistics for Machine Learning**.\n\nThis isn't just about memorizing formulas; it's about understanding the \"why\" behind every algorithm, the \"how\" behind every model's decision, and the \"what\" behind every piece of data. Think of it as learning the fundamental laws of physics that govern your machine learning universe.\n\n---\n\n# Essential Mathematics and Statistics for Machine Learning: The Language of Data and Algorithms\n\n## 1. Introduction: The Blueprint and Recipe Book of ML\n\nLet's revisit our master chef analogy. If Python was your versatile kitchen, then **mathematics and statistics are your comprehensive blueprint and recipe book.**\n\n*   **Mathematics (especially Linear Algebra and Calculus)** p",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T17:40:22.291294+00:00",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Essential Mathematics and Statistics for ML\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "Alright, my aspiring machine learning engineer! As your expert Professor and Teaching Assistant, I'm thrilled to guide you through the intricate yet fascinating world of **Essential Mathematics and Statistics for Machine Learning**. This isn't just about memorizing formulas; it's about understanding the language that machine learning models speak, the logic they follow, and the decisions they make. We will peel back the layers, from the foundational \"What\" to the crucial \"Why\" and the practical \"How.\"\n\n---\n\n# Essential Mathematics and Statistics for Machine Learning: A Deep Dive\n\n## 1. Introduction: The Blueprint and Compass of Machine Learning\n\nImagine you are an architect designing a magnificent skyscraper (your machine learning model). You have a vision for its aesthetics and functionality, but to actually build it, you need more than just an idea. You need:\n\n*   **A Blueprint (Mathematics):** This is the fundamental design language. It dictates the structure, the load-bearing capab",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T17:43:02.212873+00:00",
+        "data": {
+          "question": "explai 3.3 section even more",
+          "answer": "Absolutely! Let's take an even deeper dive into the nuances, best practices, and \"gotchas\" within the realm of Probability and Statistics. As your Professor, I want to ensure you grasp the subtle yet critical aspects that differentiate a basic understanding from true mastery, especially in the context of Machine Learning.\n\n---\n\n### 3.3. Probability and Statistics Deep Dive - EXTREME DETAIL\n\nWe'll unpack each of these advanced statistical concepts, focusing on their \"What,\" \"Why,\" \"How,\" and the common pitfalls or subtleties.\n\n#### 3.3.1. Maximum Likelihood Estimation (MLE)\n\n**What:** Maximum Likelihood Estimation (MLE) is a method for estimating the parameters of a probability distribution or statistical model, given a set of observed data. The core idea is to find the parameter values that make the observed data **most probable** (i.e., maximize the **likelihood function**).\n\nImagine you have a bag of coins, and you pick one. You flip it 10 times and get 7 heads. MLE would try to find",
+          "mode": "hybrid",
+          "topics": [
+            "explai",
+            "section",
+            "even",
+            "more"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T17:44:32.384104+00:00",
+        "data": {
+          "timestamp": "2025-12-10T17:44:32.330Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:44:33.737719+00:00",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:44:43.307852+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T17:57:25.687621+00:00",
+        "data": {
+          "timestamp": "2025-12-10T17:57:25.673Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:57:27.372264+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T17:58:39.032804+00:00",
+        "data": {
+          "timestamp": "2025-12-10T17:58:39.009Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:58:40.447668+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:58:50.137745+00:00",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:58:51.510692+00:00",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:58:55.036057+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T17:58:59.419753+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:00:12.296163+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:00:12.250Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:00:13.718823+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:03:51.273964+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:03:51.203Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:03:52.320713+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:08:01.249110+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:08:01.217Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:08:02.390545+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:11:53.648248+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:11:53.617Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:12:03.831903+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:16:10.456929+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:16:10.400Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:16:13.547519+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:20:10.754876+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:20:10.711Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:20:12.432407+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:21:23.480151+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:21:23.437Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:21:35.376558+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:30:55.462527+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:30:55.420Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:30:57.684519+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:39:26.653213+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:39:26.639Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:39:26.668400+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:39:26.650Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:40:18.914519+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:40:18.874Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:40:21.305524+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:42:56.006668+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:42:55.963Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:42:57.338768+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:46:34.027237+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:46:33.978Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:46:35.242826+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:48:34.009785+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:48:33.992Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:48:35.180419+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:50:46.147112+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:50:46.128Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:50:48.623012+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:50:48.618Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:50:50.126744+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:56:54.494783+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:56:54.477Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:56:56.003779+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T18:59:37.722417+00:00",
+        "data": {
+          "timestamp": "2025-12-10T18:59:37.709Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T18:59:39.269431+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T19:00:25.327098+00:00",
+        "data": {
+          "timestamp": "2025-12-10T19:00:25.309Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T19:00:26.450486+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-10T19:10:10.294856+00:00",
+        "data": {
+          "timestamp": "2025-12-10T19:10:10.279Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-10T19:10:12.006574+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-11T03:19:02.602859+00:00",
+        "data": {
+          "timestamp": "2025-12-11T03:19:02.563Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T03:19:04.459092+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-11T03:30:08.090918+00:00",
+        "data": {
+          "timestamp": "2025-12-11T03:30:08.052Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T03:30:09.056391+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-11T03:32:52.016930+00:00",
+        "data": {
+          "timestamp": "2025-12-11T03:32:52.003Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T03:32:52.646848+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-11T03:33:58.082107+00:00",
+        "data": {
+          "timestamp": "2025-12-11T03:33:58.039Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T03:33:58.761910+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-11T04:19:08.606483+00:00",
+        "data": {
+          "timestamp": "2025-12-11T04:19:08.595Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T04:19:09.891918+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T04:20:19.975772+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T04:20:23.719781+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-11T04:21:24.803466+00:00",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "Alright, my aspiring machine learning expert! As your expert Professor and Teaching Assistant, we're going to embark on a comprehensive journey into **Python Fundamentals for Machine Learning**. This is the absolute bedrock upon which all your future machine learning endeavors will be built. We'll start from the ground up, ensuring you grasp not just *what* to do, but *why* and *how* it's done, with a constant eye towards its application in the exciting world of ML.\n\n---\n\n# Python Fundamentals for Machine Learning: A Deep Dive\n\n## 1. Introduction: Python as the Universal Workshop of ML\n\nImagine you're an engineer tasked with building a complex, intelligent robot (your machine learning model) that can learn and adapt. To do this, you need a versatile, powerful, and user-friendly workshop equipped with all the necessary tools and materials.\n\n*   **Python is that universal workshop.** It's the primary environment where you'll design, assemble, test, and deploy your machine learning creati",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-11T04:23:47.370596+00:00",
+        "data": {
+          "timestamp": "2025-12-11T04:23:47.332Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T04:23:48.717448+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-11T05:47:06.446028+00:00",
+        "data": {
+          "timestamp": "2025-12-11T05:47:06.428Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T05:47:09.647548+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-11T05:53:38.618202+00:00",
+        "data": {
+          "timestamp": "2025-12-11T05:53:38.550Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T05:53:39.491164+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-11T05:57:01.809449+00:00",
+        "data": {
+          "timestamp": "2025-12-11T05:57:01.754Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T05:57:03.274318+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-11T06:00:15.226393+00:00",
+        "data": {
+          "timestamp": "2025-12-11T06:00:15.209Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:00:19.883388+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-11T06:00:42.641716+00:00",
+        "data": {
+          "timestamp": "2025-12-11T06:00:42.604Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:00:44.120482+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:07:50.216515+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:08:22.898192+00:00",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:10:22.765130+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:10:23.643570+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:11:07.703587+00:00",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-11T06:13:40.146592+00:00",
+        "data": {
+          "timestamp": "2025-12-11T06:13:40.093Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:13:42.269701+00:00",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:15:20.096466+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:15:24.520007+00:00",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:15:27.708600+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:15:33.745278+00:00",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:15:36.513469+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:15:39.278607+00:00",
+        "data": {
+          "panel": "learn"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-11T06:16:14.948317+00:00",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Foundations of AI & Machine Learning for Agents\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "Alright, my aspiring machine learning expert! As your expert Professor and Teaching Assistant, I'm thrilled to guide you through the foundational pillars of **AI & Machine Learning for Agents**. This isn't just about understanding definitions; it's about grasping the very essence of what makes an intelligent agent \"intelligent,\" how it perceives, reasons, and acts, and the underlying principles that govern its learning capabilities. We will build this knowledge from the ground up, ensuring you understand the \"What,\" \"Why,\" and \"How\" at every step.\n\n---\n\n# Foundations of AI & Machine Learning for Agents: The Genesis of Intelligence\n\n## 1. Introduction: The Brain and Learning Mechanism of an Autonomous Entity\n\nImagine you're tasked with creating a highly sophisticated robot \u2013 one that can navigate a complex environment, learn from its mistakes, and achieve specific goals without constant human intervention. This robot isn't just following pre-programmed instructions; it's making decision",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:17:06.830174+00:00",
+        "data": {
+          "panel": "agents"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:19:12.259358+00:00",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-11T06:19:38.731768+00:00",
+        "data": {
+          "question": "give basics of ai agents",
+          "answer": "# Understanding AI Agents: The Basics\n\nAs an aspiring expert in teaching and technology, understanding the foundational concepts of Artificial Intelligence is crucial. Let's delve into the basics of **AI Agents**.\n\n## What is an AI Agent?\n\nAt its core, an **AI Agent** is anything that can **perceive** its **environment** through **sensors** and **act** upon that environment through **actuators**. Think of it as an entity designed to operate autonomously to achieve specific goals.\n\nThe concept is quite general; an agent could be:\n*   A human (with eyes, ears as sensors, and hands, legs as actuators)\n*   A robot (with cameras, infrared sensors, and motors, grippers)\n*   A software program (with keyboard inputs, file contents as sensors, and screen displays, file writes as actuators)\n\nThe key idea is that an agent is rational; it strives to do the \"right thing\" \u2013 meaning, it takes actions that are expected to maximize its performance measure given the percept sequence it has observed so f",
+          "mode": "hybrid",
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-11T06:19:49.197527+00:00",
+        "data": {
+          "panel": "functions"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "session_start",
+        "timestamp": "2025-12-11T07:34:05.393800+00:00",
+        "data": {
+          "timestamp": "2025-12-11T07:34:05.359Z",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+        },
+        "metadata": {}
+      }
+    ],
+    "profile": {
+      "created_at": "2025-12-09T15:11:54.910623",
+      "topics_of_interest": [
+        "teaching",
+        "professor",
+        "section",
+        "explai",
+        "more",
+        "expert",
+        "even",
+        "assistant",
+        "loops",
+        "explain",
+        "your"
+      ],
+      "preferred_difficulty": "intermediate",
+      "learning_style": "visual",
+      "total_sessions": 0,
+      "total_time_minutes": 0
+    },
+    "stats": {
+      "videos_analyzed": 0,
+      "lessons_completed": 0,
+      "quizzes_taken": 0,
+      "chat_messages": 15,
+      "agents_used": {},
+      "topics_explored": {}
+    }
+  },
+  "default_user": {
+    "activities": [
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-09T15:18:17.559891",
+        "data": {
+          "question": "You are a Teaching Assistant. Teach me about: Python Fundamentals for Machine Learning This module covers the essential Python programming concepts, data structures, and libraries (NumPy, Pandas, Matp",
+          "mode": "general_knowledge",
+          "topics": [
+            "teaching",
+            "assistant",
+            "teach",
+            "python",
+            "fundamentals"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-09T16:15:53.989866",
+        "data": {
+          "question": "Teach me about: Python Fundamentals for Machine Learning. Be concise and clear.",
+          "mode": "general_knowledge",
+          "topics": [
+            "teach",
+            "python",
+            "fundamentals",
+            "machine",
+            "learning"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-09T16:16:35.670390",
+        "data": {
+          "question": "brief about pandas present here",
+          "mode": "general_knowledge",
+          "topics": [
+            "brief",
+            "pandas",
+            "present",
+            "here"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T06:52:23.015167",
+        "data": {
+          "question": "what you know about me",
+          "answer": "Hello! That's a great question to ask.\n\nAs an AI assistant, I don't \"know\" you in a personal sense, and I don't have memory of past conversations outside of our current interaction. I don't store personal data about you.\n\nHowever, based on the **User Context** provided to me for this session, I can tell you what I understand about your learning preferences and interests:\n\n*   **Topics of Interest**: You're interested in **learning** in general, specifically **Python**, **machine learning**, and **assistants** (which often ties into AI and machine learning).\n*   **Preferred Difficulty Level**: You prefer an **intermediate** level of explanation. This means I should aim for explanations that go beyond the basics but don't dive too deep into highly advanced or obscure topics without proper context.\n*   **Recent Focus**: You've recently been focusing on **teaching Python fundamentals**. This suggests you might be either a learner who has recently covered fundamentals, or perhaps someone in",
+          "mode": "hybrid",
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T06:57:51.176539",
+        "data": {
+          "question": "what you kbnow about me",
+          "answer": "Hello there! That's a great question to ask.\n\nAs an AI assistant, I don't \"know\" you in a personal sense, and I don't have memory of past conversations outside of our current interaction. I don't store personal information about you.\n\nHowever, based on the **User Context** provided to me for this session, I can infer a few things about your interests and preferences that help me tailor my responses:\n\n1.  **Topics of Interest**: You seem interested in **learning**, **Python**, and **machine learning** (implied by \"machine\"). You're also interacting with me, an \"assistant.\"\n2.  **Preferred Difficulty Level**: You prefer an **intermediate** level of explanation.\n3.  **Recent Focus**: You've recently been focusing on **Python fundamentals**.\n\nThis information helps me understand how best to assist you, for example, by providing Python code examples or explaining machine learning concepts at an intermediate level.\n\nMy goal is to be a helpful teaching assistant, and knowing these preferences",
+          "mode": "hybrid",
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T07:05:08.562806",
+        "data": {
+          "question": "Teach me about: Python Fundamentals for Machine Learning. Be concise and clear.",
+          "answer": "```json\n{\n  \"answer\": \"Python is a cornerstone for machine learning due to its readability, extensive libraries, and strong community. To effectively use Python for machine learning, it's crucial to grasp these fundamental concepts:\\n\\n1.  **Variables and Data Types**: Understanding how to store and manipulate different kinds of information is the first step. This includes basic types like integers (`int`), floating-point numbers (`float`), text (`str`), and boolean values (`bool`).\\n\\n2.  **Core Data Structures**: These are essential for organizing and handling datasets:\\n    *   **Lists**: Ordered, mutable collections (e.g., `[1, 2, 3]`). Ideal for sequences of items.\\n    *   **Tuples**: Ordered, immutable collections (e.g., `(1, 2, 3)`). Useful for fixed collections or returning multiple values from a function.\\n    *   **Dictionaries**: Unordered, mutable collections of key-value pairs (e.g., `{'name': 'Alice', 'age': 30}`). Perfect for representing structured data or features.\\n ",
+          "mode": "hybrid",
+          "topics": [
+            "teach",
+            "python",
+            "fundamentals",
+            "machine",
+            "learning"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T07:08:37.175911",
+        "data": {
+          "question": "Teach me about: Python Fundamentals for Machine Learning. Be concise and clear.",
+          "answer": "```json\n{\n  \"answer\": \"Python is a cornerstone for machine learning due to its readability, extensive libraries, and strong community. To effectively use Python for machine learning, it's crucial to grasp these fundamental concepts:\\n\\n1.  **Variables and Data Types**: Understanding how to store and manipulate different kinds of information is the first step. This includes basic types like integers (`int`), floating-point numbers (`float`), text (`str`), and boolean values (`bool`).\\n\\n2.  **Core Data Structures**: These are essential for organizing and handling datasets:\\n    *   **Lists**: Ordered, mutable collections (e.g., `[1, 2, 3]`). Ideal for sequences of items.\\n    *   **Tuples**: Ordered, immutable collections (e.g., `(1, 2, 3)`). Useful for fixed collections or returning multiple values from a function.\\n    *   **Dictionaries**: Unordered, mutable collections of key-value pairs (e.g., `{'name': 'Alice', 'age': 30}`). Perfect for representing structured data or features.\\n\\",
+          "mode": "hybrid",
+          "topics": [
+            "teach",
+            "python",
+            "fundamentals",
+            "machine",
+            "learning"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T07:12:07.903636",
+        "data": {
+          "question": "Teach me about: Python Fundamentals for Machine Learning. Be concise and clear.",
+          "answer": "```json\n{\n  \"answer\": \"Python is a cornerstone for machine learning due to its readability, extensive libraries, and strong community. To effectively use Python for machine learning, it's crucial to grasp these fundamental concepts:\\n\\n1.  **Variables and Data Types**: Understanding how to store and manipulate different kinds of information is the first step. This includes basic types like integers (`int`), floating-point numbers (`float`), text (`str`), and boolean values (`bool`).\\n\\n2.  **Core Data Structures**: These are essential for organizing and handling datasets:\\n    *   **Lists**: Ordered, mutable collections (e.g., `[1, 2, 3]`). Ideal for sequences of items.\\n    *   **Tuples**: Ordered, immutable collections (e.g., `(1, 2, 3)`). Useful for fixed collections or returning multiple values from a function.\\n    *   **Dictionaries**: Unordered, mutable collections of key-value pairs (e.g., `{'name': 'Alice', 'age': 30}`). Perfect for representing structured data or features.\\n\\",
+          "mode": "hybrid",
+          "topics": [
+            "teach",
+            "python",
+            "fundamentals",
+            "machine",
+            "learning"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T07:12:51.484598",
+        "data": {
+          "question": "Teach me about: Python Fundamentals for Machine Learning. Be concise and clear.",
+          "answer": "```json\n{\n  \"answer\": \"Python is a cornerstone for machine learning due to its readability, extensive libraries, and strong community. To effectively use Python for machine learning, it's crucial to grasp these fundamental concepts:\\n\\n1.  **Variables and Data Types**: Understanding how to store and manipulate different kinds of information is the first step. This includes basic types like integers (`int`), floating-point numbers (`float`), text (`str`), and boolean values (`bool`).\\n\\n2.  **Core Data Structures**: These are essential for organizing and handling datasets:\\n    *   **Lists**: Ordered, mutable collections (e.g., `[1, 2, 3]`). Ideal for sequences of items.\\n    *   **Tuples**: Ordered, immutable collections (e.g., `(1, 2, 3)`). Useful for fixed collections or returning multiple values from a function.\\n    *   **Dictionaries**: Unordered, mutable collections of key-value pairs (e.g., `{'name': 'Alice', 'age': 30}`). Perfect for representing structured data or features.\\n ",
+          "mode": "hybrid",
+          "topics": [
+            "teach",
+            "python",
+            "fundamentals",
+            "machine",
+            "learning"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T07:18:05.116757",
+        "data": {
+          "question": "Teach me about: Python Fundamentals for Machine Learning. Be concise and clear.",
+          "answer": "```json\n{\n  \"answer\": \"Python is a cornerstone for machine learning due to its readability, extensive libraries, and strong community. To effectively use Python for machine learning, it's crucial to grasp these fundamental concepts:\\n\\n1.  **Variables and Data Types**: Understanding how to store and manipulate different kinds of information is the first step. This includes basic types like integers (`int`), floating-point numbers (`float`), text (`str`), and boolean values (`bool`).\\n\\n2.  **Core Data Structures**: These are essential for organizing and handling datasets:\\n    *   **Lists**: Ordered, mutable collections (e.g., `[1, 2, 3]`). Ideal for sequences of items.\\n    *   **Tuples**: Ordered, immutable collections (e.g., `(1, 2, 3)`). Useful for fixed collections or returning multiple values from a function.\\n    *   **Dictionaries**: Unordered, mutable collections of key-value pairs (e.g., `{'name': 'Alice', 'age': 30}`). Perfect for representing structured data or features.\\n\\",
+          "mode": "hybrid",
+          "topics": [
+            "teach",
+            "python",
+            "fundamentals",
+            "machine",
+            "learning"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T07:19:25.087964",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning This module covers the essential Python programming concepts, data structures, and libraries (NumPy, Pandas, Matplotlib) required for machine learning tasks. It builds a strong foundation for data manipulation and analysis. \u2022 900 min\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "```json\n{\n  \"answer\": \"### Introduction: Python - The Swiss Army Knife for Machine Learning\\n\\nImagine you're building a complex machine, say, a self-driving car. You need tools for everything: wrenches to tighten bolts, diagnostic scanners to check the engine, and sophisticated software to control the navigation system. In the world of Machine Learning, Python plays a similar role \u2013 it's the ultimate 'Swiss Army Knife' of programming languages. It provides not just the basic tools (like variables and data structures) but also specialized, high-performance instruments (libraries like NumPy, Pandas, Matplotlib) that allow data scientists and ML engineers to build, train, and deploy intelligent systems. From cleaning messy data to visualizing complex patterns and building predictive models, Python offers a comprehensive and intuitive ecosystem.\\n\\n### Core Concepts: Building Blocks of Python for ML\\n\\nBefore diving into advanced ML, a solid grasp of Python's fundamentals is paramount. Th",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T07:25:05.256601",
+        "data": {
+          "question": "dictionaries",
+          "answer": "```json\n{\n  \"answer\": \"You're right to focus on dictionaries! They are incredibly versatile and fundamental for many tasks in machine learning. Let's dive deeper into them, building on our previous introduction.\\n\\n### Deep Dive: Dictionaries - Nuances, Best Practices, and 'Gotchas'\\n\\nDictionaries in Python are powerful, but understanding their intricacies helps you use them more effectively, especially in ML contexts.\\n\\n*   **Key Characteristics**: \\n    *   **Mutable**: You can add, remove, and modify key-value pairs after creation.\\n    *   **Unordered (in older Python versions, ordered since Python 3.7)**: While modern Python preserves insertion order, historically, dictionaries were unordered. It's generally best practice *not* to rely on insertion order for critical logic, though it's often convenient. If order is strictly necessary, `collections.OrderedDict` was used, but `dict` itself now largely suffices.\\n    *   **Keys must be immutable and unique**: This is a critical rul",
+          "mode": "hybrid",
+          "topics": [
+            "dictionaries"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T16:42:28.520253",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "```json\n{\n  \"answer\": \"You're absolutely right to emphasize dictionaries! They are incredibly versatile and fundamental for many tasks in machine learning, from representing data points to configuring models. Let's continue our deep dive into them, building on our previous introduction.\\n\\n### Deep Dive: Dictionaries - Nuances, Best Practices, and 'Gotchas' (Continued)\\n\\nAs we discussed, dictionaries in Python are powerful. Understanding their intricacies helps you use them more effectively, especially in ML contexts.\\n\\n*   **Key Characteristics (Continued)**:\\n    *   **Keys must be immutable and unique**: This is a critical rule. Immutable types include numbers (integers, floats), strings, and tuples. Lists, sets, and other dictionaries cannot be used as keys because they are mutable. If you try to use a mutable object as a key, Python will raise a `TypeError`. Each key in a dictionary must also be unique; if you assign a value to an existing key, the old value associated with that",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T16:43:02.322836",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "### Introduction: Python - The Swiss Army Knife for Machine Learning\n\nImagine you're an architect designing a state-of-the-art building. You wouldn't just need a hammer; you'd need a full suite of specialized tools: CAD software for blueprints, a laser level for precision, a crane for heavy lifting, and various hand tools for intricate details. In the world of Machine Learning, Python plays a remarkably similar role \u2013 it's the ultimate 'Swiss Army Knife' of programming languages, offering a comprehensive and intuitive ecosystem. It provides not just the basic construction tools (like variables and data structures) but also specialized, high-performance instruments (libraries like NumPy, Pandas, and Matplotlib) that empower data scientists and ML engineers. From cleaning messy datasets to visualizing complex patterns, building predictive models, and deploying intelligent systems, Python offers the versatility and power needed at every stage of an ML project.\n\n### Core Concepts: Building",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T16:51:54.331186",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "```json\n{\n  \"answer\": \"You're absolutely right to push for extreme detail! To truly master Python for Machine Learning, we must build a rock-solid foundation, starting with the very first building blocks. Let's pick up right where we left off in the 'Core Concepts' section and dive deep into Variables and Data Types.\\n\\n### Core Concepts: Building Blocks of Python for ML (Continued)\\n\\n#### 1. Variables and Data Types: The Foundation of Information Handling\\n\\nJust as an architect needs to understand different materials \u2013 concrete, steel, glass \u2013 and how to store and label them for a project, a programmer needs to understand **variables** and **data types**. These are the fundamental mechanisms for storing and organizing information within your Python programs. In Machine Learning, data is everything, and variables are how we hold onto that data, whether it's a single number, a name, or an entire dataset.\\n\\n##### What are Variables?\\n\\nIn Python, a **variable** is essentially a named ",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T16:51:58.182217",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "```json\n{\n  \"answer\": \"You're eager to dive deep, and that's the spirit of a true learner! We'll pick up right where we left off, building a robust foundation in Python's core concepts before we even touch the specialized ML libraries. This detailed exploration will ensure you understand not just *what* to do, but *why* and *how* it works, laying the groundwork for advanced machine learning.\\n\\n### Core Concepts: Building Blocks of Python for ML (Continued)\\n\\nTo become proficient in using Python for machine learning, a solid understanding of its fundamental building blocks is non-negotiable. These concepts are the bedrock upon which all more complex operations, data manipulations, and model constructions are built.\\n\\n#### 1. Variables and Data Types\\n\\n**What are they?**\\n\\nAt its most fundamental level, programming is about working with data. **Variables** are essentially named storage locations in your computer's memory that hold pieces of data. Think of them as labeled boxes where",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T16:52:03.093822",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "```json\n{\n  \"answer\": \"You're absolutely right to keep the focus on building a robust foundation! We've established Python as the 'Swiss Army Knife' and begun to explore its fundamental building blocks like variables and data structures. Let's continue our journey into the 'Core Concepts' by understanding how Python allows us to control the flow of our programs, which is crucial for any sophisticated machine learning algorithm.\\n\\n### Core Concepts: Building Blocks of Python for ML (Continued)\\n\\n#### 3. Control Flow: Making Decisions and Repeating Actions\\n\\nIn machine learning, your programs rarely follow a single, straight path. They need to make decisions based on data, repeat operations over large datasets, and adapt their behavior. This is where **control flow** comes in. It's the mechanism that dictates the order in which your code executes, allowing for conditional logic and iteration.\\n\\n##### What: Conditional Statements (`if`, `elif`, `else`)\\n\\nConditional statements allow ",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T16:52:03.344378",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "You're absolutely right to push for extreme detail! As your expert Professor and Teaching Assistant, I'm here to ensure you grasp every nuance of Python for Machine Learning. We've laid the groundwork with an introduction and briefly touched upon core concepts. Let's now dive deeper into those foundational building blocks, ensuring we understand the 'Why,' 'How,' and 'What' of each.\n\n### Core Concepts: Building Blocks of Python for ML (Continued)\n\n#### 1. Variables and Data Types\n\n**What are they?**\nIn Python, a variable is essentially a named storage location that holds a value. Think of it like a labeled box where you can put different kinds of items. The 'data type' defines what kind of item is in the box \u2013 is it a number, text, a true/false statement, or something else? Python is dynamically typed, meaning you don't explicitly declare the variable's type; Python infers it at runtime.\n\n**Why are they important for Machine Learning?**\nVariables are the fundamental way we represent an",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T16:52:03.663690",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "```json\n{\n  \"answer\": \"### Core Concepts: Building Blocks of Python for ML (Continued)\\n\\nLet's pick up where we left off, delving deeper into the fundamental building blocks of Python that are absolutely essential for anyone venturing into Machine Learning. We've established that Python is our 'Swiss Army Knife'; now, let's sharpen those core tools.\\n\\n### 1. Variables and Data Types: The Foundation of Information Storage\\n\\nEvery piece of information you work with in machine learning \u2013 from a single pixel value in an image to a complex model parameter \u2013 needs to be stored and manipulated. Variables are like labeled containers that hold these pieces of information, and data types define *what kind* of information those containers can hold.\\n\\n#### What are Variables?\\n\\n*   **What**: A variable is a named storage location that holds a value. Think of it as a tag you attach to a piece of data in your computer's memory.\\n*   **Why**: Variables allow you to store data, refer to it later ",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T16:52:04.354388",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "```json\n{\n  \"answer\": \"You're absolutely right to reiterate the importance of a thorough, detailed understanding of Python fundamentals for Machine Learning! As your expert Professor and Teaching Assistant, I'm committed to providing that in-depth explanation, adhering strictly to your requirements. We've established Python as the 'Swiss Army Knife' and touched upon some core concepts like variables and data structures, with a deep dive into dictionaries. Let's continue building that strong foundation by exploring other essential core concepts.\\n\\n### Core Concepts: Building Blocks of Python for ML (Continued)\\n\\nBeyond variables and basic data structures, mastering control flow, functions, and error handling is crucial for writing effective and robust machine learning code.\\n\\n#### 3. Control Flow: Guiding Your Program's Decisions and Repetitions\\n\\n**What it is**: Control flow refers to the order in which individual statements or instructions are executed in a program. It allows your",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T16:52:10.390623",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "```json\n{\n  \"answer\": \"### Core Concepts: Building Blocks of Python for ML (Continued)\\n\\nWe've laid the groundwork with variables and fundamental data structures like lists, tuples, and dictionaries. Now, let's move on to the logic and structure that allow our programs to *do* things dynamically and efficiently.\\n\\n#### 3. Control Flow: Making Decisions and Repeating Actions\\n\\n**What is it?**\\nControl flow refers to the order in which individual statements, instructions, or function calls are executed or evaluated. It's how your program makes decisions and repeats tasks based on certain conditions.\\n\\n**Why is it crucial for Machine Learning?**\\nIn ML, you constantly need to:\\n*   **Filter data**: \\\"If a data point meets certain criteria, process it this way; otherwise, process it another way.\\\"\\n*   **Iterate over datasets**: \\\"For every image in this folder, load it, preprocess it, and feed it to the model.\\\"\\n*   **Train models**: Training often involves iterative optimization loo",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T17:04:51.198670",
+        "data": {
+          "question": "You are an expert Professor and Teaching Assistant. \nYour goal is to teach the user about: \"Python Fundamentals for Machine Learning\" in EXTREME DETAIL.\n\nRequirements:\n1.  **In-Depth Explanation**: Do not just summarize. Explain the \"Why\", \"How\", and \"What\" of every concept.\n2.  **Beginner to Advanced**: Start simple but go deep.\n3.  **Code Examples**: Provide real-world, runnable code examples (if technical).\n4.  **Structure**:\n    *   **Introduction**: Real-world analogy.\n    *   **Core Concepts**: Detailed breakdown.\n    *   **Deep Dive**: Nuances, best practices, and \"gotchas\".\n    *   **Practical Application**: How this is used in industry.\n    *   **Summary**: Key takeaways.\n\nFormat: Markdown with syntax highlighting.\n",
+          "answer": "```json\n{\n  \"answer\": \"You're absolutely right to reiterate the importance of a thorough, detailed understanding of Python fundamentals for Machine Learning! As your expert Professor and Teaching Assistant, I'm committed to providing that in-depth explanation, adhering strictly to your requirements. We've laid the groundwork with variables and fundamental data structures like lists, tuples, and dictionaries. Now, let's continue our deep dive into the logic and structure that allow our programs to *do* things dynamically and efficiently.\\n\\n### Core Concepts: Building Blocks of Python for ML (Continued)\\n\\n#### 3. Control Flow: Making Decisions and Repeating Actions\\n\\nWe've established that **Control Flow** dictates the order in which your program's instructions are executed, enabling it to make decisions and repeat tasks. We also discussed *why* it's crucial for machine learning, from filtering data to iterating over datasets and, as we were about to elaborate, for training models.\\n\\",
+          "mode": "hybrid",
+          "topics": [
+            "expert",
+            "professor",
+            "teaching",
+            "assistant",
+            "your"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-10T17:06:01.743667",
+        "data": {
+          "question": "next topics",
+          "answer": "Excellent! Moving right along, Professor. Having mastered the art of control flow, you're now equipped to make your programs dynamic and responsive. The next crucial step in building robust and scalable Python applications for Machine Learning is understanding and utilizing **Functions**. Functions are the backbone of organized, reusable, and maintainable code.\n\n### Core Concepts: Building Blocks of Python for ML (Continued)\n\n#### 4. Functions: Organizing and Reusing Your Code\n\n**What are they?**\n\nA function is a block of organized, reusable code that is used to perform a single, related action. It's like a mini-program within your larger program. Instead of writing the same lines of code multiple times, you encapsulate them into a function and call that function whenever you need that specific action performed.\n\n**Why are they important for Machine Learning?**\n\nIn Machine Learning, functions are absolutely indispensable for several reasons:\n\n*   **Modularity**: ML pipelines are comple",
+          "mode": "hybrid",
+          "topics": [
+            "next",
+            "topics"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:05:55.630190+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 51315.2129650116,
+          "topics": [
+            "video",
+            "provides",
+            "detailed",
+            "analysis",
+            "comparison",
+            "recent",
+            "ipos",
+            "corona",
+            "remedies",
+            "wakefit"
+          ],
+          "video_id": "qZXuZ87V3mQ"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:08:08.050268+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 2062.286138534546,
+          "topics": [
+            "video",
+            "provides",
+            "detailed",
+            "analysis",
+            "comparison",
+            "recent",
+            "ipos",
+            "corona",
+            "remedies",
+            "wakefit"
+          ],
+          "video_id": "qZXuZ87V3mQ"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:12:49.098602+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 41505.52773475647,
+          "topics": [
+            "video",
+            "provides",
+            "detailed",
+            "analysis",
+            "concurrent",
+            "ipos",
+            "corona",
+            "remedies",
+            "wakefit",
+            "innovations"
+          ],
+          "video_id": "qZXuZ87V3mQ"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:13:18.664032+00:00",
+        "data": {
+          "function": "video_chat",
+          "success": true,
+          "execution_time_ms": 680.2246570587158
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:17:06.066664+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 47971.765756607056,
+          "topics": [
+            "analysis",
+            "failed",
+            "cannot",
+            "access",
+            "local",
+            "variable",
+            "where",
+            "associated",
+            "value"
+          ],
+          "video_id": "qZXuZ87V3mQ"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:17:22.359342+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 1827.7626037597656,
+          "topics": [
+            "analysis",
+            "failed",
+            "cannot",
+            "access",
+            "local",
+            "variable",
+            "where",
+            "associated",
+            "value"
+          ],
+          "video_id": "qZXuZ87V3mQ"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:17:32.593024+00:00",
+        "data": {
+          "function": "video_chat",
+          "success": true,
+          "execution_time_ms": 0.06985664367675781
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:21:09.313356+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 52553.95555496216,
+          "topics": [
+            "analysis",
+            "failed",
+            "cannot",
+            "access",
+            "local",
+            "variable",
+            "where",
+            "associated",
+            "value"
+          ],
+          "video_id": "qZXuZ87V3mQ"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:21:51.335976+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 12711.648225784302,
+          "topics": [
+            "analysis",
+            "failed",
+            "cannot",
+            "access",
+            "local",
+            "variable",
+            "where",
+            "associated",
+            "value"
+          ],
+          "video_id": "VnEoS2eQXsw"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:22:00.945956+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 44908.08415412903,
+          "topics": [
+            "analysis",
+            "failed",
+            "cannot",
+            "access",
+            "local",
+            "variable",
+            "where",
+            "associated",
+            "value"
+          ],
+          "video_id": "qZXuZ87V3mQ"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:31:23.440343+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 16030.260562896729,
+          "topics": [
+            "video",
+            "explores",
+            "science",
+            "prompt",
+            "engineering",
+            "highlighting",
+            "emergence",
+            "crucial",
+            "skill",
+            "akin"
+          ],
+          "video_id": "VnEoS2eQXsw"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:32:47.914677+00:00",
+        "data": {
+          "function": "video_chat",
+          "success": true,
+          "execution_time_ms": 2299.593210220337
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:33:32.785901+00:00",
+        "data": {
+          "function": "video_chat",
+          "success": true,
+          "execution_time_ms": 4028.1825065612793
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:34:41.973650+00:00",
+        "data": {
+          "function": "video_chat",
+          "success": true,
+          "execution_time_ms": 2305.598258972168
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:40:28.800483+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 15.607357025146484,
+          "video_id": "https://youtu.be/VnEoS2eQXsw?si=QbvwFUWxn53s_OE7"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:43:03.779301+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 18.232107162475586,
+          "video_id": "https://youtu.be/VnEoS2eQXsw?si=QbvwFUWxn53s_OE7"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:46:43.578006+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 2555.816650390625,
+          "video_id": "https://youtu.be/VnEoS2eQXsw?si=QbvwFUWxn53s_OE7"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:48:47.863599+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 9030.810117721558,
+          "video_id": "https://youtu.be/qZXuZ87V3mQ?si=5dRs9HmxDwGRskwX"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:49:29.417755+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 5155.90763092041,
+          "video_id": "https://youtu.be/VnEoS2eQXsw?si=QbvwFUWxn53s_OE7"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:52:02.297269+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 66253.4556388855,
+          "video_id": "https://youtu.be/VnEoS2eQXsw?si=QbvwFUWxn53s_OE7"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:57:49.685019+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 46942.5151348114,
+          "video_id": "https://youtu.be/VnEoS2eQXsw?si=QbvwFUWxn53s_OE7"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T18:59:42.408549+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 13.24319839477539,
+          "video_id": "https://youtu.be/VnEoS2eQXsw?si=QbvwFUWxn53s_OE7"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-10T19:00:32.018513+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 12.371063232421875,
+          "video_id": "https://youtu.be/VnEoS2eQXsw?si=QbvwFUWxn53s_OE7"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-11T03:19:06.797751+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 18.59760284423828,
+          "video_id": "https://youtu.be/qZXuZ87V3mQ?si=5dRs9HmxDwGRskwX"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-11T03:30:12.744574+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 13.953208923339844,
+          "video_id": "https://youtu.be/qZXuZ87V3mQ?si=5dRs9HmxDwGRskwX"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-11T03:32:55.527380+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 15.743017196655273,
+          "video_id": "https://youtu.be/qZXuZ87V3mQ?si=5dRs9HmxDwGRskwX"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-11T03:34:00.688714+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 12.179851531982422,
+          "video_id": "https://youtu.be/qZXuZ87V3mQ?si=5dRs9HmxDwGRskwX"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-11T04:19:12.769434+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 15.587091445922852,
+          "video_id": "https://youtu.be/qZXuZ87V3mQ?si=5dRs9HmxDwGRskwX"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-11T04:23:56.234638+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 5150.058269500732,
+          "video_id": "https://youtu.be/qZXuZ87V3mQ?si=5dRs9HmxDwGRskwX"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-11T05:47:24.459116+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 10688.568115234375,
+          "video_id": "https://youtu.be/qZXuZ87V3mQ?si=5dRs9HmxDwGRskwX"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-11T05:54:08.920005+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 26197.195529937744,
+          "video_id": "qZXuZ87V3mQ"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-11T05:57:31.042038+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 24245.245695114136,
+          "video_id": "qZXuZ87V3mQ"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-11T06:00:22.316463+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 2383.617401123047,
+          "video_id": "qZXuZ87V3mQ"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-11T06:04:15.635709+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 190017.5814628601,
+          "topics": [
+            "video",
+            "provides",
+            "detailed",
+            "comparison",
+            "review",
+            "initial",
+            "public",
+            "offerings",
+            "ipos",
+            "opening"
+          ],
+          "video_id": "qZXuZ87V3mQ"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-11T06:05:09.714954+00:00",
+        "data": {
+          "function": "video_chat",
+          "success": true,
+          "execution_time_ms": 3820.7807540893555
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-12T14:49:41.834400+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 119879.37951087952,
+          "topics": [
+            "video",
+            "abhi",
+            "niyu",
+            "delves",
+            "into",
+            "recent",
+            "operational",
+            "crisis",
+            "indigo",
+            "india"
+          ],
+          "video_id": "SfkZEzlQziY"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-12T14:51:37.010883+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 112223.34384918213,
+          "topics": [
+            "video",
+            "abhi",
+            "niyu",
+            "critically",
+            "analyzes",
+            "recent",
+            "operational",
+            "breakdown",
+            "flight",
+            "cancellations"
+          ],
+          "video_id": "SfkZEzlQziY"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-12T14:52:13.144868+00:00",
+        "data": {
+          "question": "Explain the key concepts",
+          "answer": "Excellent! Let's dive deeper into **Functions**, which are truly a cornerstone of good programming practice, especially in a field like Machine Learning where code reusability and modularity are paramount.\n\n### Core Concepts: Building Blocks of Python for ML (Continued)\n\n#### 4. Functions: Organizing and Reusing Your Code\n\n**What are they?**\n\nAs we briefly touched upon, a function is a self-contained block of organized, reusable code designed to perform a specific task. Think of it as a specialized tool in your programming toolkit. Instead of manually performing a complex series of steps every time you need to, say, preprocess data, you can define a function once and then simply \"call\" that function whenever the task is required.\n\nIn Python, you define a function using the `def` keyword, followed by the function name, parentheses `()`, and a colon `:`. Any code indented below this line belongs to the function.\n\n**Why are they important for Machine Learning?**\n\nFunctions are absolutely ",
+          "mode": "hybrid",
+          "topics": [
+            "explain",
+            "concepts"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-12T15:01:07.891335+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 120084.47647094727,
+          "topics": [
+            "video",
+            "abhi",
+            "niyu",
+            "critically",
+            "examines",
+            "recent",
+            "operational",
+            "breakdown",
+            "flight",
+            "cancellations"
+          ],
+          "video_id": "SfkZEzlQziY"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-12T15:03:04.225639+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 116300.57144165039,
+          "topics": [
+            "video",
+            "abhi",
+            "niyu",
+            "thoroughly",
+            "explains",
+            "recent",
+            "operational",
+            "breakdown",
+            "faced",
+            "indigo"
+          ],
+          "video_id": "SfkZEzlQziY"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-12T15:03:36.589348+00:00",
+        "data": {
+          "question": "What are the main takeaways?",
+          "answer": "Excellent question! Let's consolidate the key takeaways regarding **Functions** from our discussion so far. Understanding these points is crucial for writing efficient, maintainable, and scalable Python code, which is absolutely essential for any serious Machine Learning endeavor.\n\nHere are the main takeaways about functions:\n\n1.  **What a Function Is**:\n    *   A function is a self-contained, organized block of reusable code.\n    *   It's designed to perform a specific, single, related task.\n    *   Think of it as a specialized tool or a mini-program within your larger application.\n\n2.  **Why Functions are Indispensable for Machine Learning**:\n    *   **Modularity**: They break down complex ML pipelines (like data preprocessing, model training, evaluation) into smaller, manageable, logical units. This makes your code easier to understand and reason about.\n    *   **Reusability**: Instead of writing the same code repeatedly, you define a function once and call it whenever that specific",
+          "mode": "hybrid",
+          "topics": [
+            "main",
+            "takeaways"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-12T15:10:56.245226+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 95245.38040161133,
+          "topics": [
+            "video",
+            "critically",
+            "analyzes",
+            "recent",
+            "operational",
+            "breakdown",
+            "indigo",
+            "india",
+            "largest",
+            "airline"
+          ],
+          "video_id": "SfkZEzlQziY"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-12T17:22:43.132841+00:00",
+        "data": {
+          "question": "Summarise this video",
+          "answer": "It seems there might be a slight misunderstanding, as I don't have access to any specific video content that you've watched or are referring to. My capabilities are focused on providing explanations and code examples based on the textual information we've been discussing.\n\nCould you please provide the content of the video (e.g., a transcript, key points, or a link if it's publicly accessible and I can process it)?\n\nAlternatively, if you were referring to a summary of our *current discussion* on **Functions** in Python, I've already provided the main takeaways in our previous interaction.\n\nLet me know how I can best assist you! We can continue our deep dive into Python Fundamentals for Machine Learning, perhaps moving on to **Modules and Packages** or **Object-Oriented Programming**, which are also crucial for ML development.",
+          "mode": "hybrid",
+          "topics": [
+            "summarise",
+            "video"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-12T17:23:00.352233+00:00",
+        "data": {
+          "question": "what is this lesson is about",
+          "answer": "It seems there might still be a slight confusion regarding a \"video.\" As your teaching assistant, I don't have access to any external video content you might be referring to.\n\nHowever, if you're asking about **what our current lesson or discussion is about**, we are deeply exploring **Functions** in Python, specifically in the context of **Python Fundamentals for Machine Learning**.\n\n### What Our Current Lesson is About: Functions in Python\n\nOur current lesson is focused on understanding **Functions** as a fundamental building block in Python programming. We've been discussing:\n\n*   **What a Function Is**: A self-contained, organized, and reusable block of code designed to perform a specific task.\n*   **Why Functions are Crucial for Machine Learning**: Their importance for **modularity**, **reusability**, **readability**, **maintainability**, and **abstraction** in complex ML pipelines.\n*   **How to Define and Call Functions**: The basic syntax using the `def` keyword.\n*   **Parameters",
+          "mode": "hybrid",
+          "topics": [
+            "lesson"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-12T17:24:50.566492+00:00",
+        "data": {
+          "question": "what is this lesson is about",
+          "answer": "It seems there might have been a technical hiccup in our previous interactions, and I apologize if my responses didn't reach you!\n\nLet's clarify our current topic. We are currently deep-diving into **Functions** in Python, specifically how they are a fundamental building block for Machine Learning applications.\n\n### What Our Current Lesson is About: Functions in Python for Machine Learning\n\nOur ongoing lesson is focused on understanding **Functions** as a core concept in Python programming. We've been discussing:\n\n*   **What a Function Is**: A self-contained, organized, and reusable block of code designed to perform a specific task. It's like creating your own specialized tool within your program.\n*   **Why Functions are Crucial for Machine Learning**: Their importance for making your code **modular**, **reusable**, **readable**, **maintainable**, and enabling **abstraction** in complex ML pipelines. This helps break down big problems (like data preprocessing or model training) into sm",
+          "mode": "hybrid",
+          "topics": [
+            "lesson"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-12T17:29:52.929878+00:00",
+        "data": {
+          "question": "how to setup python, give in simple steps",
+          "answer": "It's great you're looking to get Python set up! This is a fundamental first step for any programming journey, especially when you're diving into areas like Machine Learning.\n\nBased on our current lesson, setting up Python involves not just installing the language itself, but also understanding how to manage your project environments effectively.\n\nHere are the simple steps to get Python and your development environment ready:\n\n### How to Set Up Python and Your Development Environment\n\nSetting up Python correctly involves a few key steps to ensure you have the language installed and a clean, isolated space for each of your projects.\n\n#### Step 1: Install Python\n\nThe first step is to install the Python interpreter on your computer.\n\n1.  **Download Python**: Go to the official Python website: [python.org/downloads](https://www.python.org/downloads/).\n2.  **Choose Your Version**: Download the latest stable version of Python 3 (e.g., Python 3.10.x or newer).\n3.  **Run the Installer**:\n    * ",
+          "mode": "hybrid",
+          "topics": [
+            "setup",
+            "python",
+            "give",
+            "simple",
+            "steps"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-12T17:53:58.321446+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 67073.65226745605,
+          "topics": [
+            "video",
+            "provides",
+            "detailed",
+            "review",
+            "analysis",
+            "icici",
+            "prudential",
+            "speaker",
+            "introduces",
+            "concept"
+          ],
+          "video_id": "T-FhMGAnKYU"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-13T10:50:38.297611+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 87186.46025657654,
+          "topics": [
+            "video",
+            "provides",
+            "comprehensive",
+            "analysis",
+            "icici",
+            "prudential",
+            "asset",
+            "management",
+            "company",
+            "assessing"
+          ],
+          "video_id": "cJAj9T3gzyM"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-13T10:55:02.029027+00:00",
+        "data": {
+          "question": "Summarise this video",
+          "answer": "It seems there might still be a slight confusion regarding a \"video.\" As your teaching assistant, I don't have access to any external video content you might be referring to.\n\nHowever, if you're asking for a summary of **our current lesson content**, which is about **Python Lists**, I can certainly do that! We've just covered some crucial foundational concepts for working with collections of data in Python.\n\n### Summary of Our Current Lesson: Python Lists\n\nOur current lesson, \"Python Lists: Your First Steps with Ordered Collections,\" introduces one of the most fundamental and versatile data structures in Python.\n\nHere are the main takeaways:\n\n1.  **What a Python List Is**:\n    *   A **list** is an **ordered**, **mutable** (changeable) collection of items.\n    *   It can hold items of different data types (integers, strings, floats, even other lists).\n    *   Being **ordered** means items maintain their position, and being **mutable** means you can change, add, or remove items after cre",
+          "mode": "hybrid",
+          "topics": [
+            "summarise",
+            "video"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-13T15:35:58.445993+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 79250.48804283142,
+          "video_id": "IOmsErD35Mw"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-13T15:48:56.884403+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 54896.164417266846,
+          "video_id": "IOmsErD35Mw"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-13T16:01:54.902739+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 47920.84288597107,
+          "video_id": "IOmsErD35Mw"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-13T16:11:59.616813+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 226777.32157707214,
+          "topics": [
+            "video",
+            "titled",
+            "insurance",
+            "companies",
+            "explained",
+            "rahul",
+            "malodia",
+            "provides",
+            "comprehensive",
+            "explanation"
+          ],
+          "video_id": "IOmsErD35Mw"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-13T16:30:10.921242+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 64046.18978500366,
+          "topics": [
+            "video",
+            "explains",
+            "insurance",
+            "companies",
+            "earn",
+            "profits",
+            "using",
+            "simple",
+            "examples",
+            "everyday"
+          ],
+          "video_id": "IOmsErD35Mw"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-13T16:34:12.109056+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 73708.15777778625,
+          "topics": [
+            "video",
+            "explains",
+            "insurance",
+            "companies",
+            "earn",
+            "profits",
+            "despite",
+            "offering",
+            "high",
+            "coverage"
+          ],
+          "video_id": "IOmsErD35Mw"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-13T16:38:16.766204+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 86400.03657341003,
+          "topics": [
+            "video",
+            "explains",
+            "insurance",
+            "companies",
+            "earn",
+            "profits",
+            "while",
+            "offering",
+            "seemingly",
+            "huge"
+          ],
+          "video_id": "IOmsErD35Mw"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-13T16:40:23.101546+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 109864.15457725525,
+          "topics": [
+            "video",
+            "explains",
+            "insurance",
+            "companies",
+            "particularly",
+            "term",
+            "health",
+            "plans",
+            "generate",
+            "profit"
+          ],
+          "video_id": "IOmsErD35Mw"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-14T05:06:07.780602+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 7635.783910751343,
+          "topics": [
+            "video",
+            "examines",
+            "whether",
+            "bubble",
+            "transformative",
+            "platform",
+            "shift",
+            "drawing",
+            "benedict",
+            "evans"
+          ],
+          "video_id": "hiADiEIYRpA"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-14T05:17:14.772102+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 8251.112461090088,
+          "topics": [
+            "video",
+            "explores",
+            "whether",
+            "bubble",
+            "next",
+            "platform",
+            "shift",
+            "using",
+            "benedict",
+            "evans"
+          ],
+          "video_id": "hiADiEIYRpA"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-22T14:35:32.422932+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": true,
+          "execution_time_ms": 36566.184997558594,
+          "topics": [
+            "video",
+            "provides",
+            "concise",
+            "overview",
+            "upcoming",
+            "indian",
+            "ipos",
+            "emphasizing",
+            "benefits",
+            "shareholder"
+          ],
+          "video_id": "-KGX8E6UrtU"
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-22T17:12:31.850883+00:00",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {
+          "url": "http://localhost:3000/chat"
+        }
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-22T17:12:45.583959+00:00",
+        "data": {
+          "panel": "dashboard"
+        },
+        "metadata": {
+          "url": "http://localhost:3000/dashboard"
+        }
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-22T17:12:52.860293+00:00",
+        "data": {
+          "panel": "interview"
+        },
+        "metadata": {
+          "url": "http://localhost:3000/interview"
+        }
+      },
+      {
+        "type": "interview_started",
+        "timestamp": "2025-12-22T17:13:04.352739+00:00",
+        "data": {
+          "role": "AI enginerr",
+          "level": "mid"
+        },
+        "metadata": {
+          "url": "http://localhost:3000/interview"
+        }
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-22T17:14:10.046142+00:00",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {
+          "url": "http://localhost:3000/chat"
+        }
+      }
+    ],
+    "profile": {
+      "created_at": "2025-12-09T15:18:17.559853",
+      "topics_of_interest": [
+        "python",
+        "earn",
+        "overview",
+        "particularly",
+        "your",
+        "examines",
+        "upcoming",
+        "thoroughly",
+        "concise",
+        "next",
+        "whether",
+        "teaching",
+        "provides",
+        "insurance",
+        "abhi",
+        "transformative",
+        "bubble",
+        "review",
+        "explained",
+        "explains"
+      ],
+      "preferred_difficulty": "intermediate",
+      "learning_style": "visual",
+      "total_sessions": 0,
+      "total_time_minutes": 0
+    },
+    "stats": {
+      "videos_analyzed": 0,
+      "lessons_completed": 0,
+      "quizzes_taken": 0,
+      "chat_messages": 30,
+      "agents_used": {},
+      "topics_explored": {}
+    }
+  },
+  "test": {
+    "activities": [
+      {
+        "type": "function_called",
+        "timestamp": "2025-12-12T14:42:03.637612+00:00",
+        "data": {
+          "function": "fetch_transcript",
+          "success": false,
+          "execution_time_ms": 0.014543533325195312
+        },
+        "metadata": {}
+      }
+    ],
+    "profile": {
+      "created_at": "2025-12-12T14:42:03.637576+00:00",
+      "topics_of_interest": [],
+      "preferred_difficulty": "intermediate",
+      "learning_style": "visual",
+      "total_sessions": 0,
+      "total_time_minutes": 0
+    },
+    "stats": {
+      "videos_analyzed": 0,
+      "lessons_completed": 0,
+      "quizzes_taken": 0,
+      "chat_messages": 0,
+      "agents_used": {},
+      "topics_explored": {}
+    }
+  },
+  "user_7ii3ee9m": {
+    "activities": [
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-12T15:11:21.855369+00:00",
+        "data": {
+          "question": "Summarize this video",
+          "answer": "This video critically examines the recent operational issues faced by Indigo, India's largest airline, and uses this situation to discuss the broader problem of monopolies in India. It explains that Indigo experienced extensive flight cancellations, causing significant inconvenience for passengers, including missed events and financial losses. The primary reasons for these issues were pilot fatigue and Indigo's decision to stop hiring, even with new flight duty time limitation (FDTL) rules approaching, which are designed for safety.\n\nThe video highlights that Indigo holds a monopolistic position in the Indian aviation market, controlling over 60% of the market share and operating on 63% of routes without competition. This means passengers have very few alternatives. The video criticizes the government for seemingly granting exemptions to Indigo, temporarily suspending FDTL regulations, which it argues prioritizes the airline's operations over passenger and pilot safety. Finally, it bro",
+          "mode": "hybrid",
+          "topics": [
+            "summarize",
+            "video"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      }
+    ],
+    "profile": {
+      "created_at": "2025-12-12T15:11:21.855330+00:00",
+      "topics_of_interest": [
+        "summarize",
+        "video"
+      ],
+      "preferred_difficulty": "intermediate",
+      "learning_style": "visual",
+      "total_sessions": 0,
+      "total_time_minutes": 0
+    },
+    "stats": {
+      "videos_analyzed": 0,
+      "lessons_completed": 0,
+      "quizzes_taken": 0,
+      "chat_messages": 1,
+      "agents_used": {},
+      "topics_explored": {}
+    }
+  },
+  "user_rfwdnw1j": {
+    "activities": [
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-12T17:54:26.866053+00:00",
+        "data": {
+          "question": "what is his conclussion, in 2 sentences",
+          "answer": "The speaker strongly recommends applying for the ICICI Prudential AMC IPO, primarily due to its high probability of allotment for retail investors and the company's strong market position and consistent financial growth. He views it as a good investment opportunity, especially given the potential for Grey Market Premium (GMP) to increase.",
+          "mode": "hybrid",
+          "topics": [
+            "conclussion",
+            "sentences"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-12T17:54:57.908216+00:00",
+        "data": {
+          "question": "what is its current GMP",
+          "answer": "Based on the video, the Grey Market Premium (GMP) for the ICICI Prudential AMC IPO was 9% at the time the video was recorded. The speaker also noted that this GMP had the potential to increase significantly if there was strong subscription from Qualified Institutional Buyers (QIBs).",
+          "mode": "hybrid",
+          "topics": [
+            "current"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      }
+    ],
+    "profile": {
+      "created_at": "2025-12-12T17:54:26.866000+00:00",
+      "topics_of_interest": [
+        "current",
+        "conclussion",
+        "sentences"
+      ],
+      "preferred_difficulty": "intermediate",
+      "learning_style": "visual",
+      "total_sessions": 0,
+      "total_time_minutes": 0
+    },
+    "stats": {
+      "videos_analyzed": 0,
+      "lessons_completed": 0,
+      "quizzes_taken": 0,
+      "chat_messages": 2,
+      "agents_used": {},
+      "topics_explored": {}
+    }
+  },
+  "user_hq2qjhcc": {
+    "activities": [
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-13T10:50:59.809964+00:00",
+        "data": {
+          "question": "Summarize this video",
+          "answer": "This video provides a detailed analysis of the ICICI Prudential Asset Management Company (AMC) Initial Public Offering (IPO). It aims to help viewers understand whether the IPO is a good opportunity for both long-term investment and short-term listing gains.\n\nThe video introduces ICICI AMC as India's second-largest mutual fund company, managing over \u20b910 lakh crore, just behind SBI AMC. A key point highlighted is that this IPO is an \"Offer For Sale\" (OFS) by Prudential. This means that the money raised from the IPO will go to Prudential, the selling shareholder, rather than to ICICI AMC itself. This structure is explained by the company's strong profitability, high dividend payouts, and substantial cash reserves, indicating it doesn't need additional capital from the IPO.",
+          "mode": "hybrid",
+          "topics": [
+            "summarize",
+            "video"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-13T10:51:27.283510+00:00",
+        "data": {
+          "question": "will he suggesting to apply or not",
+          "answer": "Based on the provided summary and transcript of the video, the speaker analyzes the ICICI Prudential AMC IPO and assesses its potential for both long-term investment and short-term listing gains. However, the available text does not explicitly state whether the speaker suggests applying for the IPO or not [video_context]. To get the speaker's final recommendation, you would likely need to watch more of the video.",
+          "mode": "hybrid",
+          "topics": [
+            "suggesting",
+            "apply"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      }
+    ],
+    "profile": {
+      "created_at": "2025-12-13T10:50:59.809938+00:00",
+      "topics_of_interest": [
+        "summarize",
+        "video",
+        "suggesting",
+        "apply"
+      ],
+      "preferred_difficulty": "intermediate",
+      "learning_style": "visual",
+      "total_sessions": 0,
+      "total_time_minutes": 0
+    },
+    "stats": {
+      "videos_analyzed": 0,
+      "lessons_completed": 0,
+      "quizzes_taken": 0,
+      "chat_messages": 2,
+      "agents_used": {},
+      "topics_explored": {}
+    }
+  },
+  "user_6lz1sm4k": {
+    "activities": [
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-13T16:40:35.358049+00:00",
+        "data": {
+          "question": "What are the main takeaways?",
+          "answer": "The video explains how insurance companies make money even though they pay out large claims. The key points are:\n\n1. **Premiums vs. Payouts** \u2013 A small monthly premium (\u20b9400\u2013\u20b91,200) can cover a large benefit (up to \u20b91 crore). The company collects many such premiums from many customers.\n2. **Pooling and Investment** \u2013 The pooled premiums are invested, generating returns that help cover claims and profit.\n3. **Risk Management** \u2013 Re\u2011insurance is used to hedge risk, protecting the company from huge single payouts.\n4. **Importance for Families** \u2013 Insurance provides financial protection for families against unexpected events.\n5. **Choosing Coverage** \u2013 The video offers practical advice on selecting the right term or health plan based on needs.\n\nThese points help you understand why insurance is both a safety net and a profitable business model.",
+          "mode": "hybrid",
+          "topics": [
+            "main",
+            "takeaways"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-13T16:45:46.588623+00:00",
+        "data": {
+          "question": "is that ligit",
+          "answer": "Yes, the explanation is legitimate.  \nThe video by CA\u202fRahul\u202fMalodia breaks down exactly how insurance companies can earn profits even while paying out large claims. It explains that:\n\n- **Premiums** are collected from many policyholders (\u20b9400\u2013\u20b91,200 per month) and pooled together.  \n- The pooled funds are **invested** to generate returns, which help cover the claims and leave a margin for profit.  \n- **Re\u2011insurance** is used to hedge against very large single payouts, reducing the risk to the insurer.  \n\nThese mechanisms are standard industry practices, and the video\u2019s description matches the typical business model of term and health insurance providers.  \n[video_context]",
+          "mode": "hybrid",
+          "topics": [
+            "ligit"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      }
+    ],
+    "profile": {
+      "created_at": "2025-12-13T16:40:35.358013+00:00",
+      "topics_of_interest": [
+        "main",
+        "takeaways",
+        "ligit"
+      ],
+      "preferred_difficulty": "intermediate",
+      "learning_style": "visual",
+      "total_sessions": 0,
+      "total_time_minutes": 0
+    },
+    "stats": {
+      "videos_analyzed": 0,
+      "lessons_completed": 0,
+      "quizzes_taken": 0,
+      "chat_messages": 2,
+      "agents_used": {},
+      "topics_explored": {}
+    }
+  },
+  "user_50eixjbo": {
+    "activities": [
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-14T05:17:24.464793+00:00",
+        "data": {
+          "question": "Summarize this video",
+          "answer": "The video examines whether artificial intelligence is simply a hype bubble or the next major platform shift. Drawing on Benedict\u202fEvans\u2019 research and historical technology trends, the host discusses how generative AI is reshaping investment, job markets, and consumer behavior. Using data, case studies, and expert insights, the video argues that AI is likely a transformative force rather than a fleeting trend.",
+          "mode": "hybrid",
+          "topics": [
+            "summarize",
+            "video"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      }
+    ],
+    "profile": {
+      "created_at": "2025-12-14T05:17:24.464764+00:00",
+      "topics_of_interest": [
+        "video",
+        "summarize"
+      ],
+      "preferred_difficulty": "intermediate",
+      "learning_style": "visual",
+      "total_sessions": 0,
+      "total_time_minutes": 0
+    },
+    "stats": {
+      "videos_analyzed": 0,
+      "lessons_completed": 0,
+      "quizzes_taken": 0,
+      "chat_messages": 1,
+      "agents_used": {},
+      "topics_explored": {}
+    }
+  },
+  "user_n9hgjt8q": {
+    "activities": [
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-22T14:35:55.609717+00:00",
+        "data": {
+          "question": "Summarize this video",
+          "answer": "The video gives a quick overview of six upcoming Indian IPOs, focusing on how the shareholder quota system can improve an investor\u2019s chances of getting shares. It starts by recapping the ICICI AMC IPO, noting its retail quota and modest profit, then moves on to the next IPOs in the pipeline. For each company, the presenter explains the company\u2019s background, the size of the fresh issue, the proportion of promoter stake, and any offer\u2011for\u2011sale (OFS) or 100% OFS plans. He stresses the importance of reviewing the Draft Red\u2011Herring Prospectus (DRHP) and other disclosure documents before applying, as these contain critical information needed to decide whether to invest. The video ends with a call to action, inviting viewers to join a Telegram channel for real\u2011time updates on these IPOs.",
+          "mode": "hybrid",
+          "topics": [
+            "summarize",
+            "video"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      }
+    ],
+    "profile": {
+      "created_at": "2025-12-22T14:35:55.609680+00:00",
+      "topics_of_interest": [
+        "summarize",
+        "video"
+      ],
+      "preferred_difficulty": "intermediate",
+      "learning_style": "visual",
+      "total_sessions": 0,
+      "total_time_minutes": 0
+    },
+    "stats": {
+      "videos_analyzed": 0,
+      "lessons_completed": 0,
+      "quizzes_taken": 0,
+      "chat_messages": 1,
+      "agents_used": {},
+      "topics_explored": {}
+    }
+  },
+  "user_36jolC0w9oUhBVlT0Yf002vddAH": {
+    "activities": [
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-22T15:19:39.360861+00:00",
+        "data": {
+          "question": "what can u do",
+          "answer": "# Hi there! \ud83d\udc4b\n\nI\u2019m your **Zentra Doubt Assistant**\u2014here to help you explore, learn, and grow.  \nBelow is a quick snapshot of what I can do for you:\n\n## What I Can Help With\n\n| Category | What I\u2019ll Do | Example |\n|----------|--------------|---------|\n| **Learning Guidance** | Suggest courses, lessons, or topics that match your interests and skill level | \u201cI\u2019m a beginner in Python\u2014show me a starter path.\u201d |\n| **Concept Explanations** | Break down complex ideas into simple, step\u2011by\u2011step explanations | \u201cExplain recursion in plain English.\u201d |\n| **Code & Tech Help** | Write, debug, or review code snippets in many languages | \u201cShow me a basic Flask app.\u201d |\n| **Study Planning** | Build a personalized study schedule or learning plan | \u201cPlan a 4\u2011week crash course on data science.\u201d |\n| **Progress Tracking** | Show your current level, completed lessons, quiz scores, and suggest next steps | \u201cWhat\u2019s my average quiz score?\u201d |\n| **Resource Recommendations** | Point you to videos, articles, or books t",
+          "mode": "hybrid",
+          "topics": [],
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-22T15:20:29.347415+00:00",
+        "data": {
+          "question": "explain me basics of python",
+          "answer": "# \ud83d\udc0d Python Basics \u2013 A Beginner\u2019s Guide\n\nWelcome to the world of Python!  \nBelow you\u2019ll find a concise, step\u2011by\u2011step introduction that covers the essentials you need to start writing your own Python programs.\n\n---\n\n## 1\ufe0f\u20e3 What is Python?\n\n- **High\u2011level, interpreted language** \u2013 you write code, run it, and see the results immediately.\n- **Readable syntax** \u2013 designed to be easy to read and write.\n- **Versatile** \u2013 used for web development, data science, automation, scripting, AI, and more.\n\n---\n\n## 2\ufe0f\u20e3 Setting Up\n\n| Step | Action | Command (Linux/macOS) | Command (Windows) |\n|------|--------|-----------------------|-------------------|\n| 1 | Install Python 3.x | `sudo apt-get install python3` | Download from <https://www.python.org/downloads/> |\n| 2 | Verify installation | `python3 --version` | `python --version` |\n| 3 | Install a code editor | VS Code, PyCharm, Sublime, or even a simple text editor | Same as above |\n\n> **Tip:** Use `pip` (Python\u2019s package manager) to install libraries:",
+          "mode": "hybrid",
+          "topics": [
+            "explain",
+            "basics",
+            "python"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-22T16:07:42.135181+00:00",
+        "data": {
+          "question": "Explain my current progress",
+          "answer": "# \ud83d\udcca Your Current Learning Snapshot\n\n| Metric | Value |\n|--------|-------|\n| **Lessons Completed** | 0 |\n| **Quizzes Taken** | 0 |\n| **Average Quiz Score** | 0\u202f% |\n| **Current Level** | Beginner |\n| **Videos Analyzed** | 0 |\n| **Chat Messages** | 2 |\n| **Topics of Interest** | Python, basics, explanations |\n\n> **Tip:** Every learning journey starts with a single step. You\u2019re already on the path\u2014let\u2019s keep the momentum going!\n\n---\n\n## \ud83d\ude80 What This Means\n\n- **You\u2019re at the very beginning** of your Python adventure.  \n- No lessons or quizzes have been completed yet, so you\u2019re at the *entry* point of the curriculum.\n- Your current level is **Beginner**, which is perfect for building a solid foundation.\n\n---\n\n## \ud83d\udcda Suggested Next Steps\n\n| Step | What to Do | Why It Helps |\n|------|------------|--------------|\n| 1. **Start a Beginner Course** | Look for a \u201cPython for Beginners\u201d module or a short introductory video series. | Builds core concepts (variables, loops, functions). |\n| 2. **Complete t",
+          "mode": "hybrid",
+          "topics": [
+            "explain",
+            "current",
+            "progress"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-22T16:14:23.777966+00:00",
+        "data": {
+          "question": "Explain my current progress",
+          "answer": "# \ud83d\udcca Your Current Learning Snapshot\n\n| Metric | Value |\n|--------|-------|\n| **Lessons Completed** | 0 |\n| **Quizzes Taken** | 0 |\n| **Average Quiz Score** | 0\u202f% |\n| **Current Level** | **Beginner** |\n| **Videos Analyzed** | 0 |\n| **Chat Messages** | 3 |\n| **Topics of Interest** | Python, basics, explanations, progress |\n\n> **Tip:** Every learning journey starts with a single step. You\u2019re already on the path\u2014let\u2019s keep the momentum going!\n\n---\n\n## \ud83d\ude80 What This Means\n\n- **Zero lessons and quizzes**: You haven\u2019t yet started any structured content. Think of this as the *blank canvas* of your learning journey.\n- **Beginner level**: You\u2019re at the very beginning, which is perfect for building a solid foundation in Python and programming concepts.\n- **No videos analyzed**: You haven\u2019t watched any instructional videos yet. Visual learning can be a great complement to reading and coding.\n- **Three chat messages**: You\u2019ve interacted a few times, which shows curiosity and a willingness to ask quest",
+          "mode": "hybrid",
+          "topics": [
+            "explain",
+            "current",
+            "progress"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-22T16:17:43.101940+00:00",
+        "data": {
+          "question": "Explain my current progress",
+          "answer": "# \ud83d\udcca Your Current Learning Snapshot\n\n| Metric | Value |\n|--------|-------|\n| **Lessons Completed** | **0** |\n| **Quizzes Taken** | **0** |\n| **Average Quiz Score** | **0\u202f%** |\n| **Current Level** | **Beginner** |\n| **Videos Analyzed** | **0** |\n| **Chat Messages** | **3** |\n| **Topics of Interest** | Python, basics, explanations, progress |\n\n> **Tip:** Every learning journey starts with a single step. You\u2019re already on the path\u2014let\u2019s keep the momentum going!\n\n---\n\n## What This Means\n\n- **Zero lessons and quizzes**: You haven\u2019t started any structured content yet. Think of this as a blank canvas ready for your first Python adventure.\n- **Beginner level**: You\u2019re at the very beginning, which is perfect for building a solid foundation in programming concepts.\n- **No videos analyzed**: Watching a short introductory video can help reinforce what you read and code.\n- **Three chat messages**: You\u2019ve shown curiosity and willingness to ask questions\u2014great habits for a learner!\n\n---\n\n## Suggested ",
+          "mode": "hybrid",
+          "topics": [
+            "explain",
+            "current",
+            "progress"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-22T16:21:03.356925+00:00",
+        "data": {
+          "question": "Explain my current progress",
+          "answer": "# \ud83d\udcca Your Current Learning Snapshot\n\n| Metric | Value |\n|--------|-------|\n| **Lessons Completed** | **0** |\n| **Quizzes Taken** | **0** |\n| **Average Quiz Score** | **0\u202f%** |\n| **Current Level** | **Beginner** |\n| **Videos Analyzed** | **0** |\n| **Chat Messages** | **3** |\n| **Topics of Interest** | Python, basics, explanations, progress |\n\n> **Tip:** Starting from zero is perfectly fine\u2014every expert was once a beginner. The key is to keep moving forward!\n\n---\n\n## What This Means\n\n| Aspect | Interpretation |\n|--------|----------------|\n| **Zero lessons/quizzes** | You haven\u2019t yet engaged with structured content. Think of this as a blank canvas ready for your first Python adventure. |\n| **Beginner level** | You\u2019re at the very beginning, which is ideal for building a solid foundation in programming concepts. |\n| **No videos analyzed** | Watching a short introductory video can reinforce what you read and code. |\n| **Three chat messages** | You\u2019ve already shown curiosity and willingness to",
+          "mode": "hybrid",
+          "topics": [
+            "explain",
+            "current",
+            "progress"
+          ],
+          "has_code": true
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-22T16:25:12.787288+00:00",
+        "data": {
+          "question": "what can u do",
+          "answer": "# \ud83d\udc4b What I Can Do for You\n\n| Category | What I\u2019ll Help With | Why It Matters |\n|----------|--------------------|----------------|\n| **Concept explanations** | Clear, step\u2011by\u2011step breakdowns of Python (and other tech) topics | Builds a solid mental model |\n| **Code examples** | Working snippets in fenced blocks (Python, JavaScript, etc.) | Lets you copy\u2011paste and experiment |\n| **Hands\u2011on exercises** | Small challenges with solutions and hints | Reinforces learning through practice |\n| **Debugging help** | Walk\u2011throughs of error messages and fixes | Saves time and reduces frustration |\n| **Learning plans** | Structured paths from beginner to advanced | Keeps you on track and motivated |\n| **Progress tracking** | Summaries of lessons, quizzes, and milestones | Helps you see how far you\u2019ve come |\n| **Resource recommendations** | Books, courses, videos, and tutorials | Gives you the best next step |\n| **Q&A support** | Answer any question, no matter how small | Keeps the learning flow smoo",
+          "mode": "hybrid",
+          "topics": [],
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-22T17:00:12.972519+00:00",
+        "data": {
+          "question": "how was my interview last tim",
+          "answer": "# \ud83e\udd14 I\u2019m Not Sure About Your Interview\n\nI don\u2019t have any record of your last interview in the system, so I can\u2019t tell you how it went.  \nIf you\u2019d like, you can share a quick recap (e.g., what role, what questions were asked, how you felt), and I\u2019ll help you reflect on it and suggest ways to improve or celebrate what went well.\n\n---\n\n## Quick Reflection Checklist\n\n| Question | What to Think About | Why It Matters |\n|----------|---------------------|----------------|\n| **What was the role?** | Clarifies the skill set expected. | Helps tailor feedback. |\n| **Which topics were covered?** | E.g., data structures, algorithms, system design. | Identifies strengths/weaknesses. |\n| **How did you feel?** | Confident, nervous, stuck? | Guides next\u2011step preparation. |\n| **What feedback did you receive?** | Positive comments or areas to improve. | Directly informs your study plan. |\n\n---\n\n## If You\u2019re Looking to Improve\n\n1. **Review the questions**  \n   - Write down the toughest ones and research th",
+          "mode": "hybrid",
+          "topics": [
+            "interview",
+            "last"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-22T17:02:14.462558+00:00",
+        "data": {
+          "question": "what are my strenghts and weaknesses",
+          "answer": "# \ud83d\udd0d Identifying Your Strengths & Weaknesses\n\nI don\u2019t have a record of your past interviews or performance metrics, but I can help you *self\u2011evaluate* and create a clear picture of where you shine and where you can grow.  \nBelow is a step\u2011by\u2011step framework you can use right now, plus a quick template you can fill out and keep for future reference.\n\n---\n\n## 1\ufe0f\u20e3 Quick Self\u2011Assessment Checklist\n\n| Category | What to Look For | Why It Matters |\n|----------|------------------|----------------|\n| **Technical Skills** | \u2022 Languages you\u2019re comfortable with (Python, Java, etc.)<br>\u2022 Data structures & algorithms knowledge<br>\u2022 System design intuition | Core of most coding interviews |\n| **Problem\u2011Solving** | \u2022 Speed & accuracy on coding challenges<br>\u2022 Ability to break problems into sub\u2011tasks | Shows how you tackle new problems |\n| **Communication** | \u2022 Explaining your thought process clearly<br>\u2022 Listening to clarifying questions | Crucial for teamwork & interviews |\n| **Behavioral Fit** | \u2022 Dem",
+          "mode": "hybrid",
+          "topics": [
+            "strenghts",
+            "weaknesses"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "chat_message",
+        "timestamp": "2025-12-22T17:14:26.581131+00:00",
+        "data": {
+          "question": "how is my last inetrview",
+          "answer": "# \ud83e\udd14 Reflecting on Your Last Interview\n\nI don\u2019t have a record of the exact questions or feedback you received, but I can help you **analyze** the experience and turn it into a clear action plan.  \nBelow is a quick, step\u2011by\u2011step framework you can use right now, plus a handy template you can fill out and keep for future reference.\n\n---\n\n## 1\ufe0f\u20e3 Quick Self\u2011Assessment Checklist\n\n| Category | What to Look For | Why It Matters |\n|----------|------------------|----------------|\n| **Technical Skills** | \u2022 Languages you used (Python, Java, etc.)<br>\u2022 Data structures & algorithms you applied<br>\u2022 System design concepts you discussed | Core of most coding interviews |\n| **Problem\u2011Solving** | \u2022 Speed & accuracy on coding challenges<br>\u2022 Ability to break problems into sub\u2011tasks | Shows how you tackle new problems |\n| **Communication** | \u2022 Clarity of your thought process<br>\u2022 How you handled clarifying questions | Crucial for teamwork & interviews |\n| **Behavioral Fit** | \u2022 How you described past proj",
+          "mode": "hybrid",
+          "topics": [
+            "last",
+            "inetrview"
+          ],
+          "has_code": false
+        },
+        "metadata": {}
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-22T17:15:46.961965+00:00",
+        "data": {
+          "panel": "chat"
+        },
+        "metadata": {
+          "url": "http://localhost:3000/chat"
+        }
+      },
+      {
+        "type": "page_view",
+        "timestamp": "2025-12-22T17:15:47.010982+00:00",
+        "data": {
+          "panel": "interview"
+        },
+        "metadata": {
+          "url": "http://localhost:3000/interview"
+        }
+      }
+    ],
+    "profile": {
+      "created_at": "2025-12-22T15:19:39.360828+00:00",
+      "topics_of_interest": [
+        "progress",
+        "basics",
+        "weaknesses",
+        "last",
+        "explain",
+        "strenghts",
+        "inetrview",
+        "python",
+        "interview",
+        "current"
+      ],
+      "preferred_difficulty": "intermediate",
+      "learning_style": "visual",
+      "total_sessions": 0,
+      "total_time_minutes": 0
+    },
+    "stats": {
+      "videos_analyzed": 0,
+      "lessons_completed": 0,
+      "quizzes_taken": 0,
+      "chat_messages": 10,
+      "agents_used": {},
+      "topics_explored": {}
+    }
+  }
+}

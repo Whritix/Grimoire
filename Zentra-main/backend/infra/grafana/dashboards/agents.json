@@ -1,0 +1,202 @@
+{
+    "annotations": {
+        "list": []
+    },
+    "editable": true,
+    "panels": [
+        {
+            "datasource": {
+                "type": "prometheus",
+                "uid": "prometheus"
+            },
+            "gridPos": {
+                "h": 6,
+                "w": 8,
+                "x": 0,
+                "y": 0
+            },
+            "id": 1,
+            "targets": [
+                {
+                    "expr": "sum(rate(http_requests_total{agent=\"planner\"}[5m]))",
+                    "legendFormat": "Planner",
+                    "refId": "A"
+                }
+            ],
+            "title": "Planner Agent Requests",
+            "type": "timeseries"
+        },
+        {
+            "datasource": {
+                "type": "prometheus",
+                "uid": "prometheus"
+            },
+            "gridPos": {
+                "h": 6,
+                "w": 8,
+                "x": 8,
+                "y": 0
+            },
+            "id": 2,
+            "targets": [
+                {
+                    "expr": "sum(rate(http_requests_total{agent=\"composer\"}[5m]))",
+                    "legendFormat": "Composer",
+                    "refId": "A"
+                }
+            ],
+            "title": "Composer Agent Requests",
+            "type": "timeseries"
+        },
+        {
+            "datasource": {
+                "type": "prometheus",
+                "uid": "prometheus"
+            },
+            "gridPos": {
+                "h": 6,
+                "w": 8,
+                "x": 16,
+                "y": 0
+            },
+            "id": 3,
+            "targets": [
+                {
+                    "expr": "sum(rate(http_requests_total{agent=\"doubt\"}[5m]))",
+                    "legendFormat": "Doubt Assistant",
+                    "refId": "A"
+                }
+            ],
+            "title": "Doubt Assistant Requests",
+            "type": "timeseries"
+        },
+        {
+            "datasource": {
+                "type": "prometheus",
+                "uid": "prometheus"
+            },
+            "gridPos": {
+                "h": 6,
+                "w": 8,
+                "x": 0,
+                "y": 6
+            },
+            "id": 4,
+            "targets": [
+                {
+                    "expr": "sum(rate(http_requests_total{agent=\"retriever\"}[5m]))",
+                    "legendFormat": "Retriever",
+                    "refId": "A"
+                }
+            ],
+            "title": "Retriever Agent Requests",
+            "type": "timeseries"
+        },
+        {
+            "datasource": {
+                "type": "prometheus",
+                "uid": "prometheus"
+            },
+            "gridPos": {
+                "h": 6,
+                "w": 8,
+                "x": 8,
+                "y": 6
+            },
+            "id": 5,
+            "targets": [
+                {
+                    "expr": "sum(rate(http_requests_total{agent=\"assessment\"}[5m]))",
+                    "legendFormat": "Assessment",
+                    "refId": "A"
+                }
+            ],
+            "title": "Assessment Agent Requests",
+            "type": "timeseries"
+        },
+        {
+            "datasource": {
+                "type": "prometheus",
+                "uid": "prometheus"
+            },
+            "gridPos": {
+                "h": 6,
+                "w": 8,
+                "x": 16,
+                "y": 6
+            },
+            "id": 6,
+            "targets": [
+                {
+                    "expr": "sum(rate(http_requests_total{agent=\"rl_controller\"}[5m]))",
+                    "legendFormat": "RL Controller",
+                    "refId": "A"
+                }
+            ],
+            "title": "RL Controller Requests",
+            "type": "timeseries"
+        },
+        {
+            "datasource": {
+                "type": "prometheus",
+                "uid": "prometheus"
+            },
+            "gridPos": {
+                "h": 6,
+                "w": 12,
+                "x": 0,
+                "y": 12
+            },
+            "id": 7,
+            "targets": [
+                {
+                    "expr": "histogram_quantile(0.5, sum(rate(http_request_duration_seconds_bucket[5m])) by (le, agent))",
+                    "legendFormat": "{{agent}} P50",
+                    "refId": "A"
+                },
+                {
+                    "expr": "histogram_quantile(0.95, sum(rate(http_request_duration_seconds_bucket[5m])) by (le, agent))",
+                    "legendFormat": "{{agent}} P95",
+                    "refId": "B"
+                }
+            ],
+            "title": "Agent Latency Comparison",
+            "type": "timeseries"
+        },
+        {
+            "datasource": {
+                "type": "prometheus",
+                "uid": "prometheus"
+            },
+            "gridPos": {
+                "h": 6,
+                "w": 12,
+                "x": 12,
+                "y": 12
+            },
+            "id": 8,
+            "targets": [
+                {
+                    "expr": "sum(rate(http_requests_total{status=~\"5..\"}[5m])) by (agent)",
+                    "legendFormat": "{{agent}}",
+                    "refId": "A"
+                }
+            ],
+            "title": "Agent Error Rates",
+            "type": "timeseries"
+        }
+    ],
+    "refresh": "30s",
+    "schemaVersion": 38,
+    "tags": [
+        "ai-agents",
+        "agents"
+    ],
+    "time": {
+        "from": "now-1h",
+        "to": "now"
+    },
+    "title": "AI Agents - Per Agent Metrics",
+    "uid": "ai-agents-per-agent",
+    "version": 1
+}

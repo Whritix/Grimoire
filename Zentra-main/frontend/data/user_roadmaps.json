@@ -1,0 +1,1455 @@
+[
+  {
+    "id": "1765558006615",
+    "technology": "Python",
+    "level": "beginner",
+    "createdAt": "2025-12-12T16:46:46.615Z",
+    "modules": [
+      {
+        "id": "mod_001",
+        "title": "Introduction to Python & Environment Setup",
+        "description": "This module introduces Python's history, philosophy, and common applications. Learners will set up their development environment, understand basic syntax, and write their first 'Hello World' program.",
+        "importance": "Setting up a proper development environment is the first critical step for any programmer. Understanding Python's basics provides the foundation for all subsequent learning and practical application.",
+        "objectives": [
+          "Understand Python's role in modern technology",
+          "Install Python and a suitable IDE (e.g., VS Code)",
+          "Write and execute basic Python scripts",
+          "Understand Python's interactive mode"
+        ],
+        "learning_outcomes": [
+          "Successfully set up a Python development environment",
+          "Execute simple Python commands and scripts",
+          "Differentiate between Python versions and their implications"
+        ],
+        "estimated_hours": 8,
+        "prerequisites": [],
+        "difficulty": "beginner",
+        "topics": [
+          "What is Python?",
+          "Python installation (Windows, macOS, Linux)",
+          "Integrated Development Environments (IDEs) and text editors",
+          "Running Python scripts",
+          "Basic syntax: comments, print function",
+          "Python's interactive shell"
+        ],
+        "key_concepts": [
+          "Python interpreter",
+          "IDE/Text Editor",
+          "Syntax",
+          "Script execution",
+          "Hello World"
+        ],
+        "evaluation_questions": [
+          "How do you install Python on your operating system?",
+          "What is the purpose of an IDE in Python development?",
+          "Write a Python script that prints your name and age."
+        ],
+        "resources": [
+          {
+            "title": "Python Tutorial for Beginners - Full Course",
+            "url": "https://www.youtube.com/results?search_query=python+tutorial+for+beginners",
+            "type": "youtube",
+            "duration": "2 hours"
+          },
+          {
+            "title": "The Python Tutorial - Official Documentation",
+            "url": "https://docs.python.org/3/tutorial/index.html",
+            "type": "documentation",
+            "duration": "1 hour"
+          },
+          {
+            "title": "How To Install Python 3 and Set Up a Local Programming Environment",
+            "url": "https://realpython.com/installing-python/",
+            "type": "article",
+            "duration": "45 min"
+          }
+        ],
+        "practice_exercises": [
+          "Install Python and an IDE of your choice (e.g., VS Code, PyCharm Community).",
+          "Write a Python script that prints a short poem or quote.",
+          "Experiment with the Python interactive shell to perform simple arithmetic operations."
+        ]
+      },
+      {
+        "id": "mod_002",
+        "title": "Python Fundamentals: Variables, Data Types, and Operators",
+        "description": "This module dives into the core building blocks of Python: variables, various data types (integers, floats, strings, booleans), and operators. Learners will understand how to store, manipulate, and combine data.",
+        "importance": "Understanding how to store and manipulate data is fundamental to all programming. These concepts are the bedrock for creating dynamic and interactive applications.",
+        "objectives": [
+          "Declare and use variables correctly",
+          "Identify and utilize different Python data types",
+          "Perform operations using arithmetic, assignment, comparison, and logical operators",
+          "Understand type conversion"
+        ],
+        "learning_outcomes": [
+          "Effectively use variables to store information",
+          "Manipulate strings, numbers, and booleans",
+          "Write expressions using various operators to achieve desired results"
+        ],
+        "estimated_hours": 12,
+        "prerequisites": [
+          "mod_001"
+        ],
+        "difficulty": "beginner",
+        "topics": [
+          "Variables and naming conventions",
+          "Numeric data types (int, float, complex)",
+          "String data type and string manipulation",
+          "Boolean data type",
+          "Arithmetic operators",
+          "Assignment operators",
+          "Comparison operators",
+          "Logical operators",
+          "Type conversion (casting)"
+        ],
+        "key_concepts": [
+          "Variables",
+          "Data Types",
+          "Operators",
+          "Type Casting",
+          "String Methods"
+        ],
+        "evaluation_questions": [
+          "Explain the difference between an integer and a float in Python.",
+          "How do you concatenate two strings in Python?",
+          "Write a Python program that calculates the area of a rectangle given its length and width as variables."
+        ],
+        "resources": [
+          {
+            "title": "Python Variables, Data Types, and Operators Tutorial",
+            "url": "https://www.youtube.com/results?search_query=python+variables+data+types+operators+tutorial",
+            "type": "youtube",
+            "duration": "1 hour 30 min"
+          },
+          {
+            "title": "Python Data Types - W3Schools",
+            "url": "https://www.w3schools.com/python/python_datatypes.asp",
+            "type": "article",
+            "duration": "45 min"
+          },
+          {
+            "title": "Basic Operators in Python",
+            "url": "https://realpython.com/python-operators-expressions/",
+            "type": "article",
+            "duration": "1 hour"
+          }
+        ],
+        "practice_exercises": [
+          "Create variables for your name, age, and height. Print them in a formatted sentence.",
+          "Write a program that takes two numbers, performs addition, subtraction, multiplication, and division, and prints the results.",
+          "Experiment with string methods like `.upper()`, `.lower()`, `.replace()`, and string slicing."
+        ]
+      },
+      {
+        "id": "mod_003",
+        "title": "Control Flow: Conditionals and Loops",
+        "description": "This module teaches how to control the flow of a program using conditional statements (if, elif, else) and various looping constructs (for, while). These are essential for making programs dynamic and responsive.",
+        "importance": "Control flow structures allow programs to make decisions and repeat actions, which is crucial for creating any non-trivial application, from simple scripts to complex software.",
+        "objectives": [
+          "Implement conditional logic using if, elif, and else statements",
+          "Utilize for loops to iterate over sequences",
+          "Implement while loops for repetitive tasks based on a condition",
+          "Understand and use break and continue statements"
+        ],
+        "learning_outcomes": [
+          "Write programs that respond differently based on input or conditions",
+          "Automate repetitive tasks using loops",
+          "Control loop execution with break and continue"
+        ],
+        "estimated_hours": 15,
+        "prerequisites": [
+          "mod_002"
+        ],
+        "difficulty": "beginner",
+        "topics": [
+          "Conditional statements: if, elif, else",
+          "Nested conditionals",
+          "The 'for' loop and iterating over sequences",
+          "The 'while' loop",
+          "Loop control statements: break, continue, pass",
+          "Range function"
+        ],
+        "key_concepts": [
+          "Conditional Logic",
+          "Iteration",
+          "For Loop",
+          "While Loop",
+          "Break/Continue"
+        ],
+        "evaluation_questions": [
+          "Explain when to use an 'if-elif-else' structure versus nested 'if' statements.",
+          "Write a 'for' loop that prints numbers from 1 to 10.",
+          "Write a 'while' loop that asks the user for input until they type 'quit'."
+        ],
+        "resources": [
+          {
+            "title": "Python If Else, For Loop, While Loop Tutorial",
+            "url": "https://www.youtube.com/results?search_query=python+if+else+for+while+loop+tutorial",
+            "type": "youtube",
+            "duration": "2 hours"
+          },
+          {
+            "title": "Python If...Else - W3Schools",
+            "url": "https://www.w3schools.com/python/python_if_else.asp",
+            "type": "article",
+            "duration": "30 min"
+          },
+          {
+            "title": "Python For Loops - W3Schools",
+            "url": "https://www.w3schools.com/python/python_for_loops.asp",
+            "type": "article",
+            "duration": "30 min"
+          }
+        ],
+        "practice_exercises": [
+          "Write a program that checks if a number is positive, negative, or zero.",
+          "Create a program that prints all even numbers from 1 to 20 using a 'for' loop.",
+          "Build a simple guessing game where the user has to guess a secret number within a certain number of attempts using a 'while' loop."
+        ]
+      },
+      {
+        "id": "mod_004",
+        "title": "Data Structures: Lists, Tuples, Dictionaries, and Sets",
+        "description": "This module introduces Python's fundamental built-in data structures: lists, tuples, dictionaries, and sets. Learners will understand their characteristics, when to use each, and how to manipulate them effectively.",
+        "importance": "Efficiently organizing and accessing data is paramount in programming. Mastering these data structures allows for robust and scalable data management within applications.",
+        "objectives": [
+          "Understand the properties and use cases of lists, tuples, dictionaries, and sets",
+          "Perform common operations like adding, removing, and accessing elements",
+          "Differentiate between mutable and immutable data types",
+          "Utilize list comprehensions for concise list creation"
+        ],
+        "learning_outcomes": [
+          "Choose the appropriate data structure for a given problem",
+          "Manipulate data within lists, tuples, dictionaries, and sets",
+          "Write more efficient code using list comprehensions"
+        ],
+        "estimated_hours": 15,
+        "prerequisites": [
+          "mod_003"
+        ],
+        "difficulty": "beginner",
+        "topics": [
+          "Lists: creation, indexing, slicing, methods (append, insert, remove, sort)",
+          "Tuples: creation, immutability, packing/unpacking",
+          "Dictionaries: creation, key-value pairs, accessing, adding, updating, deleting elements",
+          "Sets: creation, unique elements, set operations (union, intersection, difference)",
+          "List comprehensions"
+        ],
+        "key_concepts": [
+          "List",
+          "Tuple",
+          "Dictionary",
+          "Set",
+          "Mutability",
+          "List Comprehension"
+        ],
+        "evaluation_questions": [
+          "When would you use a list instead of a tuple?",
+          "How do you add a new key-value pair to an existing dictionary?",
+          "Write a list comprehension that creates a list of squares for numbers from 1 to 5."
+        ],
+        "resources": [
+          {
+            "title": "Python Data Structures (Lists, Tuples, Dictionaries, Sets) Tutorial",
+            "url": "https://www.youtube.com/results?search_query=python+lists+tuples+dictionaries+sets+tutorial",
+            "type": "youtube",
+            "duration": "2 hours 30 min"
+          },
+          {
+            "title": "Python Lists - W3Schools",
+            "url": "https://www.w3schools.com/python/python_lists.asp",
+            "type": "article",
+            "duration": "45 min"
+          },
+          {
+            "title": "Python Dictionaries - W3Schools",
+            "url": "https://www.w3schools.com/python/python_dictionaries.asp",
+            "type": "article",
+            "duration": "45 min"
+          }
+        ],
+        "practice_exercises": [
+          "Create a list of your favorite movies and print them. Add a new movie and remove an old one.",
+          "Create a dictionary representing a person with keys like 'name', 'age', 'city'. Access and modify some values.",
+          "Write a program that takes a list of numbers and returns a new list containing only the unique numbers using sets."
+        ]
+      },
+      {
+        "id": "mod_005",
+        "title": "Functions",
+        "description": "This module covers the concept of functions, which are reusable blocks of code. Learners will learn how to define, call, and pass arguments to functions, as well as understand scope and return values.",
+        "importance": "Functions are crucial for writing modular, organized, and reusable code. They improve readability, reduce redundancy, and make programs easier to debug and maintain.",
+        "objectives": [
+          "Define and call functions with and without arguments",
+          "Understand positional and keyword arguments",
+          "Utilize default argument values",
+          "Understand variable scope (local vs. global)",
+          "Return values from functions"
+        ],
+        "learning_outcomes": [
+          "Write modular and reusable code using functions",
+          "Pass data to functions and receive results",
+          "Manage variable scope effectively"
+        ],
+        "estimated_hours": 15,
+        "prerequisites": [
+          "mod_004"
+        ],
+        "difficulty": "beginner",
+        "topics": [
+          "Defining functions (def keyword)",
+          "Calling functions",
+          "Function arguments: positional, keyword, default",
+          "Arbitrary arguments (*args, **kwargs)",
+          "Return statement",
+          "Variable scope (local, global, nonlocal)",
+          "Docstrings"
+        ],
+        "key_concepts": [
+          "Function Definition",
+          "Function Call",
+          "Arguments",
+          "Return Value",
+          "Scope",
+          "Modularity"
+        ],
+        "evaluation_questions": [
+          "What is the purpose of a function in Python?",
+          "Explain the difference between positional and keyword arguments.",
+          "Write a function that takes two numbers as input and returns their sum."
+        ],
+        "resources": [
+          {
+            "title": "Python Functions Tutorial for Beginners",
+            "url": "https://www.youtube.com/results?search_query=python+functions+tutorial",
+            "type": "youtube",
+            "duration": "1 hour 45 min"
+          },
+          {
+            "title": "Python Functions - W3Schools",
+            "url": "https://www.w3schools.com/python/python_functions.asp",
+            "type": "article",
+            "duration": "45 min"
+          },
+          {
+            "title": "Defining Your Own Python Function",
+            "url": "https://realpython.com/defining-your-own-python-function/",
+            "type": "article",
+            "duration": "1 hour"
+          }
+        ],
+        "practice_exercises": [
+          "Write a function that calculates the factorial of a given number.",
+          "Create a function that takes a list of numbers and returns the largest number in the list.",
+          "Build a simple calculator function that takes two numbers and an operator (+, -, *, /) and returns the result."
+        ]
+      },
+      {
+        "id": "mod_006",
+        "title": "File I/O and Error Handling",
+        "description": "This module teaches how to interact with files (read from and write to them) and how to handle errors gracefully using try-except blocks. These skills are vital for creating robust applications that interact with external data.",
+        "importance": "Most real-world applications need to store and retrieve data from files. Robust error handling ensures that programs don't crash unexpectedly, providing a better user experience and easier debugging.",
+        "objectives": [
+          "Open, read, and write to text files",
+          "Understand different file modes (read, write, append)",
+          "Use the 'with' statement for automatic file closing",
+          "Implement try-except blocks to handle common errors",
+          "Understand different types of exceptions"
+        ],
+        "learning_outcomes": [
+          "Read data from and write data to files",
+          "Prevent program crashes using exception handling",
+          "Create more resilient and user-friendly applications"
+        ],
+        "estimated_hours": 10,
+        "prerequisites": [
+          "mod_005"
+        ],
+        "difficulty": "beginner",
+        "topics": [
+          "Opening and closing files",
+          "Reading from files (read(), readline(), readlines())",
+          "Writing to files (write(), writelines())",
+          "File modes (r, w, a, r+, w+, a+)",
+          "The 'with' statement",
+          "Introduction to exceptions",
+          "Try, except, else, finally blocks",
+          "Common exception types (FileNotFoundError, ValueError, TypeError)"
+        ],
+        "key_concepts": [
+          "File Handling",
+          "File Modes",
+          "Context Manager ('with')",
+          "Exception Handling",
+          "Try-Except"
+        ],
+        "evaluation_questions": [
+          "What is the advantage of using the 'with' statement for file operations?",
+          "How do you handle a 'FileNotFoundError' in Python?",
+          "Write a program that reads a line from a file named 'data.txt' and prints it."
+        ],
+        "resources": [
+          {
+            "title": "Python File I/O and Exception Handling Tutorial",
+            "url": "https://www.youtube.com/results?search_query=python+file+io+exception+handling+tutorial",
+            "type": "youtube",
+            "duration": "1 hour 30 min"
+          },
+          {
+            "title": "Python File Handling - W3Schools",
+            "url": "https://www.w3schools.com/python/python_file_handling.asp",
+            "type": "article",
+            "duration": "45 min"
+          },
+          {
+            "title": "Python Try Except - W3Schools",
+            "url": "https://www.w3schools.com/python/python_try_except.asp",
+            "type": "article",
+            "duration": "30 min"
+          }
+        ],
+        "practice_exercises": [
+          "Create a text file, write a few lines of text into it, then read the entire content and print it.",
+          "Write a program that tries to open a non-existent file and handles the 'FileNotFoundError' gracefully.",
+          "Create a simple 'to-do list' program that allows users to add tasks to a file and view all tasks from the file."
+        ]
+      },
+      {
+        "id": "mod_007",
+        "title": "Object-Oriented Programming (OOP) Basics",
+        "description": "This module introduces the fundamental concepts of Object-Oriented Programming (OOP) in Python. Learners will understand classes, objects, attributes, and methods, laying the groundwork for more complex software design.",
+        "importance": "OOP is a powerful paradigm for structuring complex applications, promoting code reusability, maintainability, and scalability. It's a core concept in modern software development.",
+        "objectives": [
+          "Understand the concepts of classes and objects",
+          "Define classes with attributes and methods",
+          "Create instances of classes (objects)",
+          "Understand the 'self' keyword and the '__init__' method",
+          "Grasp basic principles like encapsulation"
+        ],
+        "learning_outcomes": [
+          "Design and implement simple classes in Python",
+          "Create and interact with objects",
+          "Organize code using an object-oriented approach"
+        ],
+        "estimated_hours": 15,
+        "prerequisites": [
+          "mod_006"
+        ],
+        "difficulty": "beginner",
+        "topics": [
+          "What is OOP?",
+          "Classes and Objects",
+          "Attributes (instance and class attributes)",
+          "Methods (instance methods)",
+          "The '__init__' method (constructor)",
+          "The 'self' keyword",
+          "Encapsulation (public vs. private members - Pythonic way)",
+          "Basic inheritance (introduction)"
+        ],
+        "key_concepts": [
+          "Class",
+          "Object",
+          "Attribute",
+          "Method",
+          "Constructor",
+          "Self",
+          "Encapsulation"
+        ],
+        "evaluation_questions": [
+          "Explain the difference between a class and an object.",
+          "What is the purpose of the '__init__' method in a Python class?",
+          "Create a simple 'Car' class with attributes like 'make', 'model', and a method to display car information."
+        ],
+        "resources": [
+          {
+            "title": "Python OOP Tutorial for Beginners",
+            "url": "https://www.youtube.com/results?search_query=python+oop+tutorial+for+beginners",
+            "type": "youtube",
+            "duration": "2 hours"
+          },
+          {
+            "title": "Python Classes and Objects - W3Schools",
+            "url": "https://www.w3schools.com/python/python_classes.asp",
+            "type": "article",
+            "duration": "45 min"
+          },
+          {
+            "title": "Object-Oriented Programming (OOP) in Python 3",
+            "url": "https://realpython.com/python3-object-oriented-programming/",
+            "type": "article",
+            "duration": "1 hour 30 min"
+          }
+        ],
+        "practice_exercises": [
+          "Design a 'Dog' class with attributes like 'name' and 'breed', and methods like 'bark()' and 'sit()'. Create a few dog objects.",
+          "Create a 'BankAccount' class with attributes 'account_number' and 'balance', and methods for 'deposit' and 'withdraw'.",
+          "Extend the 'Car' class to include a method that calculates the car's age based on its 'year_made' attribute."
+        ]
+      },
+      {
+        "id": "mod_008",
+        "title": "Modules and Packages",
+        "description": "This module teaches how to organize Python code into modules and packages, which are essential for managing larger projects. Learners will understand how to import and use code from other files and libraries.",
+        "importance": "As projects grow, organizing code into reusable modules and packages becomes critical for maintainability, collaboration, and avoiding naming conflicts. This is a cornerstone of professional Python development.",
+        "objectives": [
+          "Understand the concept of modules and packages",
+          "Import modules and specific functions/variables from them",
+          "Create custom modules and use them in other scripts",
+          "Understand the Python Standard Library"
+        ],
+        "learning_outcomes": [
+          "Structure Python projects effectively using modules and packages",
+          "Utilize code from the Python Standard Library",
+          "Improve code reusability and organization"
+        ],
+        "estimated_hours": 8,
+        "prerequisites": [
+          "mod_007"
+        ],
+        "difficulty": "beginner",
+        "topics": [
+          "What are modules?",
+          "Importing modules (import, from...import)",
+          "Creating your own modules",
+          "The '__name__' variable and '__main__'",
+          "What are packages?",
+          "Creating and importing packages",
+          "Introduction to the Python Standard Library"
+        ],
+        "key_concepts": [
+          "Module",
+          "Package",
+          "Import Statement",
+          "Standard Library",
+          "Code Organization"
+        ],
+        "evaluation_questions": [
+          "What is the primary benefit of using modules in Python?",
+          "Explain the difference between 'import mymodule' and 'from mymodule import function_name'.",
+          "How would you structure a simple project with multiple Python files into a package?"
+        ],
+        "resources": [
+          {
+            "title": "Python Modules and Packages Explained",
+            "url": "https://www.youtube.com/results?search_query=python+modules+packages+tutorial",
+            "type": "youtube",
+            "duration": "1 hour"
+          },
+          {
+            "title": "Python Modules - W3Schools",
+            "url": "https://www.w3schools.com/python/python_modules.asp",
+            "type": "article",
+            "duration": "30 min"
+          },
+          {
+            "title": "Python Packages: An Introduction",
+            "url": "https://realpython.com/python-modules-packages/",
+            "type": "article",
+            "duration": "1 hour"
+          }
+        ],
+        "practice_exercises": [
+          "Create two Python files: `math_operations.py` with functions for addition and subtraction, and `main.py` that imports and uses these functions.",
+          "Organize a small project into a package structure with an `__init__.py` file and multiple modules.",
+          "Explore and use a module from the Python Standard Library, such as the `math` module or `random` module."
+        ]
+      },
+      {
+        "id": "mod_009",
+        "title": "Introduction to Libraries (e.g., Math, Random)",
+        "description": "This module introduces learners to using external libraries and built-in modules to extend Python's functionality. It focuses on practical examples with common libraries like `math` and `random`.",
+        "importance": "Python's strength lies in its vast ecosystem of libraries. Learning to leverage these libraries allows developers to perform complex tasks efficiently without reinventing the wheel, accelerating development.",
+        "objectives": [
+          "Understand how to import and use functions from built-in modules",
+          "Utilize the `math` module for mathematical operations",
+          "Utilize the `random` module for generating random numbers",
+          "Explore other useful standard library modules (e.g., `datetime`, `os`)"
+        ],
+        "learning_outcomes": [
+          "Perform advanced mathematical calculations",
+          "Generate random data for simulations or games",
+          "Access system-level functionalities using standard libraries"
+        ],
+        "estimated_hours": 8,
+        "prerequisites": [
+          "mod_008"
+        ],
+        "difficulty": "beginner",
+        "topics": [
+          "Importing standard library modules",
+          "The `math` module (sqrt, ceil, floor, pi, etc.)",
+          "The `random` module (randint, choice, shuffle)",
+          "Introduction to `datetime` module",
+          "Introduction to `os` module",
+          "Using `pip` to install external packages (brief overview)"
+        ],
+        "key_concepts": [
+          "Standard Library",
+          "Math Module",
+          "Random Module",
+          "External Packages",
+          "Pip"
+        ],
+        "evaluation_questions": [
+          "How do you generate a random integer between 1 and 10 using the `random` module?",
+          "What is the purpose of the `math.sqrt()` function?",
+          "Briefly explain what `pip` is used for."
+        ],
+        "resources": [
+          {
+            "title": "Python Standard Library Tutorial",
+            "url": "https://www.youtube.com/results?search_query=python+standard+library+tutorial",
+            "type": "youtube",
+            "duration": "1 hour"
+          },
+          {
+            "title": "The Python Standard Library - Official Docs",
+            "url": "https://docs.python.org/3/library/index.html",
+            "type": "documentation",
+            "duration": "1 hour"
+          },
+          {
+            "title": "Python Random Module",
+            "url": "https://www.w3schools.com/python/module_random.asp",
+            "type": "article",
+            "duration": "30 min"
+          }
+        ],
+        "practice_exercises": [
+          "Write a program that calculates the hypotenuse of a right-angled triangle given its two sides using the `math` module.",
+          "Create a simple dice rolling simulator that generates random numbers between 1 and 6.",
+          "Write a program that generates a random password of a specified length using characters from a string."
+        ]
+      },
+      {
+        "id": "mod_010",
+        "title": "Basic Project: Command-Line Application",
+        "description": "This capstone module guides learners through building a complete, albeit simple, command-line application. It integrates all previously learned concepts into a practical project, solidifying understanding.",
+        "importance": "Applying learned concepts in a real project is the most effective way to consolidate knowledge and develop problem-solving skills. It provides tangible proof of learning and builds confidence.",
+        "objectives": [
+          "Design a simple command-line application",
+          "Integrate functions, data structures, file I/O, and error handling",
+          "Plan and structure a small Python project",
+          "Debug and refine a complete application"
+        ],
+        "learning_outcomes": [
+          "Successfully build a functional command-line application",
+          "Demonstrate proficiency in core Python concepts",
+          "Gain experience in project planning and execution"
+        ],
+        "estimated_hours": 14,
+        "prerequisites": [
+          "mod_009"
+        ],
+        "difficulty": "beginner",
+        "topics": [
+          "Project planning and breakdown",
+          "User input and output",
+          "Structuring a main program loop",
+          "Using functions for different features",
+          "Storing data (e.g., in a list or file)",
+          "Basic error handling for user input",
+          "Testing and debugging"
+        ],
+        "key_concepts": [
+          "Project Integration",
+          "Application Design",
+          "User Interface (CLI)",
+          "Debugging",
+          "Problem Solving"
+        ],
+        "evaluation_questions": [
+          "Describe the main components of your command-line application.",
+          "How did you handle user input and potential errors in your project?",
+          "What was the most challenging part of building this application, and how did you overcome it?"
+        ],
+        "resources": [
+          {
+            "title": "Build a Command Line Application with Python",
+            "url": "https://www.youtube.com/results?search_query=build+command+line+app+python+tutorial",
+            "type": "youtube",
+            "duration": "2 hours 30 min"
+          },
+          {
+            "title": "How to Build a Command Line Interface (CLI) in Python",
+            "url": "https://realpython.com/command-line-interfaces-python-argparse/",
+            "type": "article",
+            "duration": "1 hour 30 min"
+          },
+          {
+            "title": "Python CLI Tutorial: Build a Command-Line Tool",
+            "url": "https://www.freecodecamp.org/news/python-cli-tutorial-build-a-command-line-tool/",
+            "type": "article",
+            "duration": "1 hour"
+          }
+        ],
+        "practice_exercises": [
+          "Build a simple 'Contact Book' application that allows users to add, view, and delete contacts (stored in a file).",
+          "Create a 'Quiz Game' where questions and answers are loaded from a file, and the user's score is tracked.",
+          "Develop a 'Unit Converter' that converts between different units (e.g., Celsius to Fahrenheit, meters to feet) based on user input."
+        ]
+      }
+    ],
+    "status": "active",
+    "progress": 0
+  },
+  {
+    "id": "1765638014412",
+    "userId": "user_36jolC0w9oUhBVlT0Yf002vddAH",
+    "technology": "AI/ML",
+    "level": "beginner",
+    "createdAt": "2025-12-13T15:00:14.412Z",
+    "modules": [
+      {
+        "id": "mod_001",
+        "title": "Python Programming for Data Science",
+        "description": "This module covers the fundamental concepts of Python programming essential for data science and machine learning. It includes data structures, control flow, functions, and an introduction to key libraries like NumPy and Pandas for data manipulation.",
+        "outcome": "Learners will be proficient in Python for data handling and ready to apply it to machine learning tasks.",
+        "importance": "Python is the most widely used programming language in AI/ML due to its extensive libraries and community support. A strong foundation is crucial for implementing algorithms and managing data.",
+        "objectives": [
+          "Understand Python syntax and basic programming constructs.",
+          "Learn to use Python data structures (lists, dictionaries, tuples, sets).",
+          "Master NumPy for numerical operations and array manipulation.",
+          "Utilize Pandas for data loading, cleaning, and analysis.",
+          "Perform basic data visualization with Matplotlib/Seaborn."
+        ],
+        "learning_outcomes": [
+          "Write clean and efficient Python code.",
+          "Manipulate data using NumPy arrays and Pandas DataFrames.",
+          "Apply basic statistical operations to datasets.",
+          "Create simple plots to visualize data distributions."
+        ],
+        "estimated_hours": 30,
+        "prerequisites": [],
+        "difficulty": "beginner",
+        "topics": [
+          "Python basics (variables, data types, operators, control flow)",
+          "Functions and modules",
+          "NumPy arrays and operations",
+          "Pandas DataFrames (creation, selection, filtering, grouping, merging)",
+          "Data cleaning and preprocessing basics",
+          "Introduction to Matplotlib and Seaborn"
+        ],
+        "key_concepts": [
+          "Python syntax",
+          "NumPy arrays",
+          "Pandas DataFrames",
+          "Data manipulation",
+          "Basic visualization"
+        ],
+        "evaluation_questions": [
+          "How do you create a Pandas DataFrame from a dictionary?",
+          "Explain the difference between a NumPy array and a Python list.",
+          "Write a Python function to calculate the mean of a list of numbers."
+        ],
+        "lessons": [
+          {
+            "id": "les_001_01",
+            "lessonId": "les_001_01",
+            "title": "Python for Data Science Tutorial",
+            "url": "https://www.youtube.com/results?search_query=python+for+data+science+tutorial",
+            "type": "youtube",
+            "duration": 120,
+            "estMin": 120
+          },
+          {
+            "id": "les_001_02",
+            "lessonId": "les_001_02",
+            "title": "Pandas User Guide",
+            "url": "https://pandas.pydata.org/docs/user_guide/index.html",
+            "type": "documentation",
+            "duration": 90,
+            "estMin": 90
+          }
+        ],
+        "practice_exercises": [
+          "Load a CSV file into a Pandas DataFrame, clean missing values, and calculate descriptive statistics.",
+          "Use NumPy to perform matrix multiplication and element-wise operations on two arrays.",
+          "Create a scatter plot of two columns from your DataFrame using Matplotlib."
+        ],
+        "resources": [
+          {
+            "title": "YouTube: Python Programming for Data Science Tutorial",
+            "url": "https://www.youtube.com/results?search_query=python+programming+for+data+science+tutorial",
+            "type": "youtube",
+            "duration": "30 min"
+          },
+          {
+            "title": "Web: Learn Python Programming for Data Science",
+            "url": "https://www.google.com/search?q=python+programming+for+data+science+tutorial+guide",
+            "type": "article",
+            "duration": "20 min"
+          }
+        ]
+      },
+      {
+        "id": "mod_002",
+        "title": "Mathematics Foundations for Machine Learning",
+        "description": "This module introduces the essential mathematical concepts underpinning machine learning algorithms. It covers linear algebra, calculus, and statistics, providing the theoretical background necessary to understand how ML models work.",
+        "outcome": "Learners will grasp the core mathematical principles behind ML, enabling them to understand algorithm mechanics and interpret results.",
+        "importance": "A solid understanding of mathematics is crucial for comprehending the inner workings of ML algorithms, debugging models, and developing new ones. It moves beyond just using libraries to truly understanding the science.",
+        "objectives": [
+          "Understand vector and matrix operations in linear algebra.",
+          "Grasp basic concepts of differential calculus relevant to optimization.",
+          "Learn fundamental probability theory and statistical concepts.",
+          "Apply statistical measures to data analysis."
+        ],
+        "learning_outcomes": [
+          "Perform vector and matrix manipulations.",
+          "Understand gradients and derivatives in the context of optimization.",
+          "Interpret probability distributions and statistical tests.",
+          "Calculate and interpret mean, median, mode, variance, and standard deviation."
+        ],
+        "estimated_hours": 30,
+        "prerequisites": [
+          "mod_001"
+        ],
+        "difficulty": "beginner",
+        "topics": [
+          "Linear Algebra: Vectors, Matrices, Dot Product, Matrix Multiplication, Inverse, Determinant",
+          "Calculus: Derivatives, Gradients, Chain Rule (conceptual)",
+          "Statistics: Mean, Median, Mode, Variance, Standard Deviation, Probability Distributions (Normal, Bernoulli)",
+          "Hypothesis Testing (conceptual), Correlation, Covariance"
+        ],
+        "key_concepts": [
+          "Vectors and Matrices",
+          "Derivatives and Gradients",
+          "Probability",
+          "Statistical measures",
+          "Data distributions"
+        ],
+        "evaluation_questions": [
+          "Explain the concept of a gradient in the context of machine learning.",
+          "What is the difference between variance and standard deviation?",
+          "Given two vectors, how would you calculate their dot product?"
+        ],
+        "lessons": [
+          {
+            "id": "les_002_01",
+            "lessonId": "les_002_01",
+            "title": "Math for Machine Learning Tutorial",
+            "url": "https://www.youtube.com/results?search_query=math+for+machine+learning+tutorial",
+            "type": "youtube",
+            "duration": 150,
+            "estMin": 150
+          },
+          {
+            "id": "les_002_02",
+            "lessonId": "les_002_02",
+            "title": "Khan Academy: Linear Algebra",
+            "url": "https://www.khanacademy.org/math/linear-algebra",
+            "type": "course",
+            "duration": 180,
+            "estMin": 180
+          }
+        ],
+        "practice_exercises": [
+          "Implement a Python function to calculate the dot product of two vectors.",
+          "Given a dataset, calculate its mean, median, and standard deviation using NumPy.",
+          "Sketch the graph of a simple function and its derivative."
+        ],
+        "resources": [
+          {
+            "title": "YouTube: Mathematics Foundations for Machine Learning Tutorial",
+            "url": "https://www.youtube.com/results?search_query=mathematics+foundations+for+machine+learning+tutorial",
+            "type": "youtube",
+            "duration": "30 min"
+          },
+          {
+            "title": "Web: Learn Mathematics Foundations for Machine Learning",
+            "url": "https://www.google.com/search?q=mathematics+foundations+for+machine+learning+tutorial+guide",
+            "type": "article",
+            "duration": "20 min"
+          }
+        ]
+      },
+      {
+        "id": "mod_003",
+        "title": "Introduction to Machine Learning",
+        "description": "This module provides a high-level overview of machine learning, defining its core concepts, types (supervised, unsupervised, reinforcement), and typical workflow. It introduces the Scikit-learn library for practical implementation.",
+        "outcome": "Learners will understand the fundamental principles of machine learning and be able to identify appropriate ML tasks and tools.",
+        "importance": "This module sets the stage for all subsequent ML topics, providing the foundational vocabulary and conceptual framework necessary to navigate the field.",
+        "objectives": [
+          "Define machine learning and its main paradigms.",
+          "Understand the typical machine learning workflow.",
+          "Identify different types of machine learning problems.",
+          "Get acquainted with the Scikit-learn library for basic ML tasks."
+        ],
+        "learning_outcomes": [
+          "Distinguish between supervised, unsupervised, and reinforcement learning.",
+          "Outline the steps involved in a machine learning project.",
+          "Load and prepare a dataset for a simple ML model using Scikit-learn.",
+          "Train and make predictions with a basic Scikit-learn model."
+        ],
+        "estimated_hours": 25,
+        "prerequisites": [
+          "mod_001",
+          "mod_002"
+        ],
+        "difficulty": "beginner",
+        "topics": [
+          "What is Machine Learning?",
+          "Supervised Learning vs. Unsupervised Learning vs. Reinforcement Learning",
+          "Machine Learning Workflow (Data Collection, Preprocessing, Model Training, Evaluation, Deployment)",
+          "Introduction to Scikit-learn",
+          "Bias-Variance Trade-off (conceptual)"
+        ],
+        "key_concepts": [
+          "Machine Learning paradigms",
+          "ML workflow",
+          "Scikit-learn",
+          "Bias-Variance"
+        ],
+        "evaluation_questions": [
+          "What is the primary difference between supervised and unsupervised learning?",
+          "List the typical steps in a machine learning project.",
+          "How does Scikit-learn simplify the process of building ML models?"
+        ],
+        "lessons": [
+          {
+            "id": "les_003_01",
+            "lessonId": "les_003_01",
+            "title": "Introduction to Machine Learning Tutorial",
+            "url": "https://www.youtube.com/results?search_query=introduction+to+machine+learning+tutorial",
+            "type": "youtube",
+            "duration": 90,
+            "estMin": 90
+          },
+          {
+            "id": "les_003_02",
+            "lessonId": "les_003_02",
+            "title": "Scikit-learn User Guide",
+            "url": "https://scikit-learn.org/stable/user_guide.html",
+            "type": "documentation",
+            "duration": 60,
+            "estMin": 60
+          }
+        ],
+        "practice_exercises": [
+          "Load a built-in dataset from Scikit-learn (e.g., Iris or Boston housing) and inspect its features.",
+          "Split a dataset into training and testing sets using Scikit-learn's `train_test_split`.",
+          "Train a dummy classifier or regressor on a small dataset and make predictions."
+        ],
+        "resources": [
+          {
+            "title": "YouTube: Introduction to Machine Learning Tutorial",
+            "url": "https://www.youtube.com/results?search_query=introduction+to+machine+learning+tutorial",
+            "type": "youtube",
+            "duration": "30 min"
+          },
+          {
+            "title": "Web: Learn Introduction to Machine Learning",
+            "url": "https://www.google.com/search?q=introduction+to+machine+learning+tutorial+guide",
+            "type": "article",
+            "duration": "20 min"
+          }
+        ]
+      },
+      {
+        "id": "mod_004",
+        "title": "Data Preprocessing and Feature Engineering",
+        "description": "This module focuses on preparing raw data for machine learning models. It covers techniques for handling missing values, encoding categorical data, scaling numerical features, and creating new features to improve model performance.",
+        "outcome": "Learners will be able to effectively preprocess and engineer features from raw data, making it suitable for various ML algorithms.",
+        "importance": "High-quality data is paramount for effective machine learning. Proper preprocessing and feature engineering can significantly impact model accuracy and generalization, often more than the choice of algorithm itself.",
+        "objectives": [
+          "Identify and handle missing data.",
+          "Encode categorical variables into numerical representations.",
+          "Scale numerical features appropriately.",
+          "Understand the importance of feature engineering and create new features.",
+          "Handle outliers and imbalanced datasets (introduction)."
+        ],
+        "learning_outcomes": [
+          "Apply different strategies for imputing missing values.",
+          "Use one-hot encoding and label encoding for categorical data.",
+          "Implement standardization and normalization for numerical features.",
+          "Design and implement simple new features from existing ones.",
+          "Explain the impact of data scaling on model performance."
+        ],
+        "estimated_hours": 25,
+        "prerequisites": [
+          "mod_003"
+        ],
+        "difficulty": "beginner",
+        "topics": [
+          "Missing Data Imputation (mean, median, mode, forward/backward fill)",
+          "Categorical Encoding (One-Hot Encoding, Label Encoding)",
+          "Feature Scaling (Standardization, Normalization)",
+          "Feature Engineering (polynomial features, interaction terms)",
+          "Outlier Detection and Handling (conceptual)",
+          "Handling Imbalanced Datasets (conceptual)"
+        ],
+        "key_concepts": [
+          "Missing data",
+          "Categorical encoding",
+          "Feature scaling",
+          "Feature engineering",
+          "Outliers"
+        ],
+        "evaluation_questions": [
+          "When would you use one-hot encoding versus label encoding?",
+          "Explain the difference between standardization and normalization.",
+          "Describe a scenario where feature engineering would be beneficial."
+        ],
+        "lessons": [
+          {
+            "id": "les_004_01",
+            "lessonId": "les_004_01",
+            "title": "Data Preprocessing Machine Learning Tutorial",
+            "url": "https://www.youtube.com/results?search_query=data+preprocessing+machine+learning+tutorial",
+            "type": "youtube",
+            "duration": 100,
+            "estMin": 100
+          },
+          {
+            "id": "les_004_02",
+            "lessonId": "les_004_02",
+            "title": "Scikit-learn Preprocessing Data",
+            "url": "https://scikit-learn.org/stable/modules/preprocessing.html",
+            "type": "documentation",
+            "duration": 70,
+            "estMin": 70
+          }
+        ],
+        "practice_exercises": [
+          "Take a dataset with missing values and categorical features, then apply appropriate imputation and encoding techniques.",
+          "Apply both standardization and normalization to a numerical feature and observe the changes.",
+          "Create a new feature by combining two existing features (e.g., ratio, product) and explain its potential utility."
+        ],
+        "resources": [
+          {
+            "title": "YouTube: Data Preprocessing and Feature Engineering Tutorial",
+            "url": "https://www.youtube.com/results?search_query=data+preprocessing+and+feature+engineering+tutorial",
+            "type": "youtube",
+            "duration": "30 min"
+          },
+          {
+            "title": "Web: Learn Data Preprocessing and Feature Engineering",
+            "url": "https://www.google.com/search?q=data+preprocessing+and+feature+engineering+tutorial+guide",
+            "type": "article",
+            "duration": "20 min"
+          }
+        ]
+      },
+      {
+        "id": "mod_005",
+        "title": "Supervised Learning: Regression",
+        "description": "This module delves into regression algorithms, a core type of supervised learning used for predicting continuous numerical values. It covers Linear Regression, Polynomial Regression, and introduces evaluation metrics specific to regression tasks.",
+        "outcome": "Learners will be able to build, train, and evaluate regression models to predict continuous outcomes.",
+        "importance": "Regression is fundamental for predicting quantities like house prices, stock values, or temperature. It's a widely applicable technique across many industries.",
+        "objectives": [
+          "Understand the principles of Linear Regression.",
+          "Implement Simple and Multiple Linear Regression models.",
+          "Explore Polynomial Regression for non-linear relationships.",
+          "Evaluate regression models using metrics like MAE, MSE, RMSE, and R-squared."
+        ],
+        "learning_outcomes": [
+          "Train a Linear Regression model using Scikit-learn.",
+          "Interpret the coefficients of a linear model.",
+          "Apply Polynomial Regression to capture non-linear patterns.",
+          "Calculate and interpret common regression evaluation metrics."
+        ],
+        "estimated_hours": 30,
+        "prerequisites": [
+          "mod_004"
+        ],
+        "difficulty": "intermediate",
+        "topics": [
+          "Introduction to Regression",
+          "Simple Linear Regression (theory and implementation)",
+          "Multiple Linear Regression",
+          "Polynomial Regression",
+          "Overfitting and Underfitting in Regression",
+          "Regression Evaluation Metrics: MAE, MSE, RMSE, R-squared"
+        ],
+        "key_concepts": [
+          "Linear Regression",
+          "Polynomial Regression",
+          "Regression metrics",
+          "Overfitting",
+          "Underfitting"
+        ],
+        "evaluation_questions": [
+          "What is the primary goal of a regression model?",
+          "Explain the difference between MSE and R-squared.",
+          "When would you consider using Polynomial Regression over Linear Regression?"
+        ],
+        "lessons": [
+          {
+            "id": "les_005_01",
+            "lessonId": "les_005_01",
+            "title": "Linear Regression Machine Learning Tutorial",
+            "url": "https://www.youtube.com/results?search_query=linear+regression+machine+learning+tutorial",
+            "type": "youtube",
+            "duration": 120,
+            "estMin": 120
+          },
+          {
+            "id": "les_005_02",
+            "lessonId": "les_005_02",
+            "title": "Scikit-learn Linear Models",
+            "url": "https://scikit-learn.org/stable/modules/linear_model.html",
+            "type": "documentation",
+            "duration": 90,
+            "estMin": 90
+          }
+        ],
+        "practice_exercises": [
+          "Build a Linear Regression model to predict house prices based on features like size and number of bedrooms.",
+          "Experiment with Polynomial Regression on a dataset with a clear non-linear relationship and compare its performance to Linear Regression.",
+          "Calculate and interpret MAE, MSE, and R-squared for your regression models."
+        ],
+        "resources": [
+          {
+            "title": "YouTube: Supervised Learning: Regression Tutorial",
+            "url": "https://www.youtube.com/results?search_query=supervised+learning:+regression+tutorial",
+            "type": "youtube",
+            "duration": "30 min"
+          },
+          {
+            "title": "Web: Learn Supervised Learning: Regression",
+            "url": "https://www.google.com/search?q=supervised+learning:+regression+tutorial+guide",
+            "type": "article",
+            "duration": "20 min"
+          }
+        ]
+      },
+      {
+        "id": "mod_006",
+        "title": "Supervised Learning: Classification",
+        "description": "This module explores classification algorithms, another fundamental type of supervised learning used for predicting categorical labels. It covers Logistic Regression, Decision Trees, Support Vector Machines (SVMs), and introduces classification-specific evaluation metrics.",
+        "outcome": "Learners will be able to build, train, and evaluate classification models to predict discrete categories.",
+        "importance": "Classification is essential for tasks like spam detection, image recognition, medical diagnosis, and customer churn prediction. It's one of the most common applications of machine learning.",
+        "objectives": [
+          "Understand the principles of Logistic Regression.",
+          "Implement Decision Tree classifiers and understand their decision-making process.",
+          "Grasp the concept of Support Vector Machines (SVMs).",
+          "Evaluate classification models using accuracy, precision, recall, F1-score, and confusion matrices."
+        ],
+        "learning_outcomes": [
+          "Train Logistic Regression, Decision Tree, and SVM models using Scikit-learn.",
+          "Interpret the output of a confusion matrix.",
+          "Calculate and interpret precision, recall, and F1-score.",
+          "Choose an appropriate classification algorithm for a given problem."
+        ],
+        "estimated_hours": 30,
+        "prerequisites": [
+          "mod_005"
+        ],
+        "difficulty": "intermediate",
+        "topics": [
+          "Introduction to Classification",
+          "Logistic Regression (theory and implementation)",
+          "Decision Trees (theory, entropy, Gini impurity)",
+          "Support Vector Machines (SVMs) - conceptual understanding",
+          "Classification Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix",
+          "ROC Curve and AUC (introduction)"
+        ],
+        "key_concepts": [
+          "Logistic Regression",
+          "Decision Trees",
+          "SVMs",
+          "Confusion Matrix",
+          "Precision, Recall, F1-score"
+        ],
+        "evaluation_questions": [
+          "What is the main difference between Logistic Regression and Linear Regression?",
+          "Explain how a Decision Tree makes predictions.",
+          "When would precision be a more important metric than recall?"
+        ],
+        "lessons": [
+          {
+            "id": "les_006_01",
+            "lessonId": "les_006_01",
+            "title": "Classification Machine Learning Tutorial",
+            "url": "https://www.youtube.com/results?search_query=classification+machine+learning+tutorial",
+            "type": "youtube",
+            "duration": 120,
+            "estMin": 120
+          },
+          {
+            "id": "les_006_02",
+            "lessonId": "les_006_02",
+            "title": "Scikit-learn Classification",
+            "url": "https://scikit-learn.org/stable/modules/classes.html#module-sklearn.svm",
+            "type": "documentation",
+            "duration": 90,
+            "estMin": 90
+          }
+        ],
+        "practice_exercises": [
+          "Build a Logistic Regression model to classify emails as spam or not spam.",
+          "Train a Decision Tree classifier on the Iris dataset and visualize the tree.",
+          "Compare the performance of Logistic Regression, Decision Tree, and a simple SVM on a binary classification task using multiple evaluation metrics."
+        ],
+        "resources": [
+          {
+            "title": "YouTube: Supervised Learning: Classification Tutorial",
+            "url": "https://www.youtube.com/results?search_query=supervised+learning:+classification+tutorial",
+            "type": "youtube",
+            "duration": "30 min"
+          },
+          {
+            "title": "Web: Learn Supervised Learning: Classification",
+            "url": "https://www.google.com/search?q=supervised+learning:+classification+tutorial+guide",
+            "type": "article",
+            "duration": "20 min"
+          }
+        ]
+      },
+      {
+        "id": "mod_007",
+        "title": "Unsupervised Learning: Clustering and Dimensionality Reduction",
+        "description": "This module introduces unsupervised learning techniques, which are used to find patterns in data without explicit labels. It covers clustering algorithms like K-Means and dimensionality reduction techniques like Principal Component Analysis (PCA).",
+        "outcome": "Learners will be able to apply unsupervised learning methods to discover hidden structures in data and reduce data complexity.",
+        "importance": "Unsupervised learning is crucial for tasks like customer segmentation, anomaly detection, and data compression, especially when labeled data is scarce or expensive to obtain.",
+        "objectives": [
+          "Understand the concept of unsupervised learning.",
+          "Implement K-Means clustering and interpret its results.",
+          "Grasp the principles of Principal Component Analysis (PCA).",
+          "Apply PCA for dimensionality reduction and visualization."
+        ],
+        "learning_outcomes": [
+          "Perform K-Means clustering on a dataset and visualize the clusters.",
+          "Determine an appropriate number of clusters using methods like the elbow method.",
+          "Apply PCA to reduce the number of features in a dataset.",
+          "Explain the trade-offs of dimensionality reduction."
+        ],
+        "estimated_hours": 20,
+        "prerequisites": [
+          "mod_006"
+        ],
+        "difficulty": "intermediate",
+        "topics": [
+          "Introduction to Unsupervised Learning",
+          "Clustering: K-Means Algorithm (theory and implementation), Elbow Method",
+          "Dimensionality Reduction: Principal Component Analysis (PCA) - theory and implementation",
+          "Applications of Clustering and PCA"
+        ],
+        "key_concepts": [
+          "Unsupervised learning",
+          "K-Means clustering",
+          "PCA",
+          "Dimensionality reduction",
+          "Elbow method"
+        ],
+        "evaluation_questions": [
+          "How does K-Means clustering work?",
+          "What is the primary goal of Principal Component Analysis?",
+          "Describe a real-world application for clustering."
+        ],
+        "lessons": [
+          {
+            "id": "les_007_01",
+            "lessonId": "les_007_01",
+            "title": "Unsupervised Learning Tutorial",
+            "url": "https://www.youtube.com/results?search_query=unsupervised+learning+tutorial",
+            "type": "youtube",
+            "duration": 90,
+            "estMin": 90
+          },
+          {
+            "id": "les_007_02",
+            "lessonId": "les_007_02",
+            "title": "Scikit-learn Clustering",
+            "url": "https://scikit-learn.org/stable/modules/clustering.html",
+            "type": "documentation",
+            "duration": 60,
+            "estMin": 60
+          }
+        ],
+        "practice_exercises": [
+          "Apply K-Means clustering to a customer dataset to identify distinct customer segments.",
+          "Use PCA to reduce the dimensionality of a high-dimensional dataset (e.g., digits dataset) and visualize the principal components.",
+          "Experiment with different numbers of clusters for K-Means and evaluate the results using the elbow method."
+        ],
+        "resources": [
+          {
+            "title": "YouTube: Unsupervised Learning: Clustering and Dimensionality Reduction Tutorial",
+            "url": "https://www.youtube.com/results?search_query=unsupervised+learning:+clustering+and+dimensionality+reduction+tutorial",
+            "type": "youtube",
+            "duration": "30 min"
+          },
+          {
+            "title": "Web: Learn Unsupervised Learning: Clustering and Dimensionality Reduction",
+            "url": "https://www.google.com/search?q=unsupervised+learning:+clustering+and+dimensionality+reduction+tutorial+guide",
+            "type": "article",
+            "duration": "20 min"
+          }
+        ]
+      },
+      {
+        "id": "mod_008",
+        "title": "Model Evaluation, Selection, and Hyperparameter Tuning",
+        "description": "This module consolidates knowledge on how to rigorously evaluate, select, and optimize machine learning models. It covers cross-validation, hyperparameter tuning techniques, and strategies to prevent overfitting and underfitting.",
+        "outcome": "Learners will be able to systematically evaluate model performance, select the best model, and fine-tune its hyperparameters for optimal results.",
+        "importance": "Proper model evaluation and tuning are critical for building robust and generalizable ML systems. Without these, models may perform poorly on new, unseen data.",
+        "objectives": [
+          "Understand the importance of cross-validation.",
+          "Implement various cross-validation strategies.",
+          "Learn about hyperparameter tuning techniques like Grid Search and Random Search.",
+          "Identify and address overfitting and underfitting.",
+          "Understand regularization techniques (L1, L2) conceptually."
+        ],
+        "learning_outcomes": [
+          "Apply K-Fold cross-validation to assess model stability.",
+          "Use GridSearchCV or RandomizedSearchCV to find optimal hyperparameters.",
+          "Diagnose overfitting and underfitting in models.",
+          "Implement basic regularization in linear models.",
+          "Select the best model based on appropriate evaluation metrics."
+        ],
+        "estimated_hours": 20,
+        "prerequisites": [
+          "mod_007"
+        ],
+        "difficulty": "intermediate",
+        "topics": [
+          "Cross-Validation (K-Fold, Stratified K-Fold)",
+          "Bias-Variance Trade-off revisited",
+          "Overfitting and Underfitting strategies",
+          "Hyperparameter Tuning: Grid Search, Random Search",
+          "Regularization (L1, L2) - conceptual",
+          "Model Selection criteria"
+        ],
+        "key_concepts": [
+          "Cross-validation",
+          "Hyperparameter tuning",
+          "Overfitting",
+          "Underfitting",
+          "Regularization"
+        ],
+        "evaluation_questions": [
+          "Why is cross-validation important for model evaluation?",
+          "Explain the difference between a hyperparameter and a model parameter.",
+          "How can you mitigate overfitting in a machine learning model?"
+        ],
+        "lessons": [
+          {
+            "id": "les_008_01",
+            "lessonId": "les_008_01",
+            "title": "Model Evaluation and Hyperparameter Tuning Tutorial",
+            "url": "https://www.youtube.com/results?search_query=model+evaluation+hyperparameter+tuning+machine+learning+tutorial",
+            "type": "youtube",
+            "duration": 100,
+            "estMin": 100
+          },
+          {
+            "id": "les_008_02",
+            "lessonId": "les_008_02",
+            "title": "Scikit-learn Model Selection",
+            "url": "https://scikit-learn.org/stable/modules/cross_validation.html",
+            "type": "documentation",
+            "duration": 70,
+            "estMin": 70
+          }
+        ],
+        "practice_exercises": [
+          "Apply K-Fold cross-validation to a classification model and report the average performance metrics.",
+          "Use GridSearchCV to find the optimal hyperparameters for a Decision Tree classifier on a given dataset.",
+          "Train a regularized linear model (e.g., Ridge or Lasso Regression) and compare its performance to a non-regularized model."
+        ],
+        "resources": [
+          {
+            "title": "YouTube: Model Evaluation, Selection, and Hyperparameter Tuning Tutorial",
+            "url": "https://www.youtube.com/results?search_query=model+evaluation,+selection,+and+hyperparameter+tuning+tutorial",
+            "type": "youtube",
+            "duration": "30 min"
+          },
+          {
+            "title": "Web: Learn Model Evaluation, Selection, and Hyperparameter Tuning",
+            "url": "https://www.google.com/search?q=model+evaluation,+selection,+and+hyperparameter+tuning+tutorial+guide",
+            "type": "article",
+            "duration": "20 min"
+          }
+        ]
+      },
+      {
+        "id": "mod_009",
+        "title": "Introduction to Deep Learning",
+        "description": "This module provides an introduction to the exciting field of deep learning, covering the basics of neural networks, activation functions, backpropagation (conceptual), and building simple models using TensorFlow/Keras.",
+        "outcome": "Learners will understand the foundational concepts of deep learning and be able to build and train basic neural networks.",
+        "importance": "Deep learning has revolutionized fields like computer vision and natural language processing. Understanding its basics is essential for anyone pursuing advanced AI/ML.",
+        "objectives": [
+          "Understand the architecture of a basic Artificial Neural Network (ANN).",
+          "Grasp the role of activation functions.",
+          "Understand the concept of backpropagation (high-level).",
+          "Build and train a simple feedforward neural network using Keras/TensorFlow.",
+          "Understand the difference between deep learning and traditional machine learning."
+        ],
+        "learning_outcomes": [
+          "Explain the components of a neuron and a neural network.",
+          "Choose appropriate activation functions for different layers.",
+          "Implement a multi-layer perceptron for a classification task.",
+          "Evaluate the performance of a deep learning model.",
+          "Differentiate between shallow and deep neural networks."
+        ],
+        "estimated_hours": 30,
+        "prerequisites": [
+          "mod_008"
+        ],
+        "difficulty": "intermediate",
+        "topics": [
+          "What is Deep Learning?",
+          "Artificial Neural Networks (ANNs): Neurons, Layers, Weights, Biases",
+          "Activation Functions (ReLU, Sigmoid, Softmax)",
+          "Forward Propagation and Backpropagation (conceptual)",
+          "Loss Functions and Optimizers",
+          "Building ANNs with Keras/TensorFlow",
+          "Introduction to Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) - conceptual"
+        ],
+        "key_concepts": [
+          "Neural Networks",
+          "Activation functions",
+          "Backpropagation",
+          "Keras/TensorFlow",
+          "Deep learning vs. ML"
+        ],
+        "evaluation_questions": [
+          "Describe the basic structure of an artificial neuron.",
+          "What is the purpose of an activation function in a neural network?",
+          "How does deep learning differ from traditional machine learning in its approach to feature engineering?"
+        ],
+        "lessons": [
+          {
+            "id": "les_009_01",
+            "lessonId": "les_009_01",
+            "title": "Introduction to Deep Learning Tutorial",
+            "url": "https://www.youtube.com/results?search_query=introduction+to+deep+learning+tutorial",
+            "type": "youtube",
+            "duration": 120,
+            "estMin": 120
+          },
+          {
+            "id": "les_009_02",
+            "lessonId": "les_009_02",
+            "title": "TensorFlow Learn",
+            "url": "https://www.tensorflow.org/learn",
+            "type": "documentation",
+            "duration": 90,
+            "estMin": 90
+          }
+        ],
+        "practice_exercises": [
+          "Build a simple feedforward neural network using Keras to classify images from the Fashion MNIST dataset.",
+          "Experiment with different activation functions and optimizers in your neural network and observe their impact on performance.",
+          "Implement a multi-layer perceptron for a binary classification task and compare its performance to a Logistic Regression model."
+        ],
+        "resources": [
+          {
+            "title": "YouTube: Introduction to Deep Learning Tutorial",
+            "url": "https://www.youtube.com/results?search_query=introduction+to+deep+learning+tutorial",
+            "type": "youtube",
+            "duration": "30 min"
+          },
+          {
+            "title": "Web: Learn Introduction to Deep Learning",
+            "url": "https://www.google.com/search?q=introduction+to+deep+learning+tutorial+guide",
+            "type": "article",
+            "duration": "20 min"
+          }
+        ]
+      }
+    ],
+    "status": "active",
+    "progress": 0
+  }
+]

@@ -1,0 +1,227 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "required": [
+        "goal",
+        "modules"
+    ],
+    "properties": {
+        "goal": {
+            "type": "string",
+            "description": "The learning goal or target role"
+        },
+        "estimated_weeks": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Estimated total weeks to complete"
+        },
+        "total_hours": {
+            "type": "integer",
+            "description": "Total estimated hours"
+        },
+        "modules": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "id",
+                    "title",
+                    "estimated_hours",
+                    "learning_outcomes"
+                ],
+                "properties": {
+                    "id": {
+                        "type": "string",
+                        "description": "Unique module identifier"
+                    },
+                    "title": {
+                        "type": "string",
+                        "description": "Module title"
+                    },
+                    "description": {
+                        "type": "string",
+                        "description": "Detailed description of what this module covers"
+                    },
+                    "importance": {
+                        "type": "string",
+                        "description": "Why this lesson is important in the industry/real-world"
+                    },
+                    "objectives": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        },
+                        "description": "Course objectives for this lesson"
+                    },
+                    "learning_outcomes": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        },
+                        "description": "Specific learning outcomes"
+                    },
+                    "estimated_hours": {
+                        "type": "integer",
+                        "minimum": 1
+                    },
+                    "prerequisites": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        },
+                        "description": "Module IDs that should be completed first"
+                    },
+                    "difficulty": {
+                        "type": "string",
+                        "enum": [
+                            "beginner",
+                            "intermediate",
+                            "advanced"
+                        ]
+                    },
+                    "topics": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "key_concepts": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        },
+                        "description": "Key concepts or skills to master in this module"
+                    },
+                    "outcome": {
+                        "type": "string",
+                        "description": "Brief summary of what the learner will be able to do"
+                    },
+                    "evaluation_questions": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        },
+                        "description": "Questions for self-evaluation"
+                    },
+                    "lessons": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "id": {
+                                    "type": "string"
+                                },
+                                "lessonId": {
+                                    "type": "string"
+                                },
+                                "title": {
+                                    "type": "string",
+                                    "description": "Lesson title"
+                                },
+                                "url": {
+                                    "type": "string",
+                                    "description": "URL to the resource"
+                                },
+                                "type": {
+                                    "type": "string",
+                                    "enum": [
+                                        "youtube",
+                                        "video",
+                                        "article",
+                                        "documentation",
+                                        "course",
+                                        "practice",
+                                        "quiz"
+                                    ]
+                                },
+                                "duration": {
+                                    "type": [
+                                        "string",
+                                        "integer"
+                                    ],
+                                    "description": "Estimated time to complete"
+                                },
+                                "estMin": {
+                                    "type": "integer"
+                                }
+                            }
+                        },
+                        "description": "Learning lessons/resources for this module"
+                    },
+                    "practice_exercises": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        },
+                        "description": "Hands-on exercises or projects to complete"
+                    }
+                }
+            }
+        },
+        "checkpoints": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "week",
+                    "criteria"
+                ],
+                "properties": {
+                    "week": {
+                        "type": "integer"
+                    },
+                    "criteria": {
+                        "type": "string"
+                    },
+                    "assessment_type": {
+                        "type": "string",
+                        "enum": [
+                            "quiz",
+                            "project",
+                            "peer_review",
+                            "final_project"
+                        ]
+                    }
+                }
+            }
+        },
+        "badge": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "criteria": {
+                    "type": "string"
+                }
+            }
+        },
+        "variations": {
+            "type": "object",
+            "properties": {
+                "accelerated": {
+                    "type": "object",
+                    "properties": {
+                        "estimated_weeks": {
+                            "type": "number"
+                        },
+                        "hours_per_week": {
+                            "type": "number"
+                        }
+                    }
+                },
+                "part_time": {
+                    "type": "object",
+                    "properties": {
+                        "estimated_weeks": {
+                            "type": "number"
+                        },
+                        "hours_per_week": {
+                            "type": "number"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

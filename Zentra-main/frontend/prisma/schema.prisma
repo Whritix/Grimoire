@@ -1,0 +1,94 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id              String            @id @default(cuid())
+  clerkId         String            @unique
+  email           String            @unique
+  name            String?
+  avatar          String?
+  currentGoal     String?
+  createdAt       DateTime          @default(now())
+  updatedAt       DateTime          @updatedAt
+  
+  quizResults     QuizResult[]
+  roadmaps        Roadmap[]
+  videoProgress   VideoProgress[]
+  learningHistory LearningHistory[]
+
+  @@index([clerkId])
+  @@index([email])
+}
+
+model QuizResult {
+  id              String   @id @default(cuid())
+  userId          String
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  topic           String
+  score           Float
+  totalQuestions  Int
+  correctAnswers  Int
+  answers         Json     // Store detailed answers as JSON
+  strengths       String[]
+  weaknesses      String[]
+  timeSpentMs     Int?
+  createdAt       DateTime @default(now())
+
+  @@index([userId, createdAt])
+}
+
+model Roadmap {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  title       String
+  goal        String
+  modules     Json     // Store roadmap modules as JSON
+  progress    Float    @default(0)
+  estimatedHours Int?
+  difficulty  String?  // beginner, intermediate,advanced
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([userId, createdAt])
+}
+
+model VideoProgress {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  videoId     String
+  videoTitle  String?
+  playlistId  String?
+  currentTime Float
+  duration    Float
+  completed   Boolean  @default(false)
+  notes       String?
+  updatedAt   DateTime @updatedAt
+  createdAt   DateTime @default(now())
+  
+  @@unique([userId, videoId])
+  @@index([userId, updatedAt])
+}
+
+model LearningHistory {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  activityType String  // "quiz", "video", "roadmap", "interview"
+  topic       String?
+  score       Float?
+  metadata    Json     // Flexible field for activity-specific data
+  createdAt   DateTime @default(now())
+
+  @@index([userId, createdAt])
+  @@index([activityType])
+}

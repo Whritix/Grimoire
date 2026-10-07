@@ -1,0 +1,32 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // User data - users can read/write their own data
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+    
+    // User progress - users can read/write their own progress
+    match /user_progress/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+    
+    // Lessons - read-only for all authenticated users
+    match /lessons/{lessonId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Only admins through backend
+    }
+    
+    // Badges - read for owner, write through backend only
+    match /badges/{badgeId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Only backend with service account
+    }
+    
+    // Default deny all
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

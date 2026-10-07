@@ -1,0 +1,186 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "required": [
+        "id",
+        "title",
+        "objectives",
+        "items"
+    ],
+    "properties": {
+        "id": {
+            "type": "string",
+            "description": "Unique lesson identifier"
+        },
+        "title": {
+            "type": "string",
+            "description": "Lesson title"
+        },
+        "objectives": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "description": "Learning objectives"
+        },
+        "estimated_time": {
+            "type": "integer",
+            "description": "Estimated time in minutes"
+        },
+        "difficulty": {
+            "type": "string",
+            "enum": [
+                "beginner",
+                "intermediate",
+                "advanced"
+            ]
+        },
+        "items": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "type",
+                    "title"
+                ],
+                "properties": {
+                    "type": {
+                        "type": "string",
+                        "enum": [
+                            "video",
+                            "text",
+                            "code",
+                            "reading",
+                            "exercise",
+                            "interactive",
+                            "quiz"
+                        ]
+                    },
+                    "title": {
+                        "type": "string"
+                    },
+                    "source_id": {
+                        "type": [
+                            "string",
+                            "null"
+                        ]
+                    },
+                    "url": {
+                        "type": [
+                            "string",
+                            "null"
+                        ]
+                    },
+                    "duration": {
+                        "type": [
+                            "integer",
+                            "null"
+                        ]
+                    },
+                    "description": {
+                        "type": "string"
+                    },
+                    "content": {
+                        "type": "string",
+                        "description": "The full content of the lesson item (markdown formatted)"
+                    }
+                }
+            }
+        },
+        "notes": {
+            "type": "object",
+            "properties": {
+                "summary": {
+                    "type": "string"
+                },
+                "bullets": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "key_formulas": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "code_snippets": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "language": {
+                                "type": "string"
+                            },
+                            "code": {
+                                "type": "string"
+                            },
+                            "explanation": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "quiz_seed": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "id",
+                    "q",
+                    "type"
+                ],
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "q": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string",
+                        "enum": [
+                            "mcq",
+                            "short",
+                            "code"
+                        ]
+                    },
+                    "choices": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "difficulty": {
+                        "type": "string",
+                        "enum": [
+                            "easy",
+                            "medium",
+                            "hard"
+                        ]
+                    }
+                }
+            }
+        },
+        "citation_ranges": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "claim": {
+                        "type": "string"
+                    },
+                    "source_id": {
+                        "type": "string"
+                    },
+                    "span": {
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+}

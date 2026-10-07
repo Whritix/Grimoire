@@ -1,0 +1,98 @@
+id: lesson-planning-workflow
+namespace: teaching-assistant
+description: Orchestrates the full lesson planning workflow using AI Agents
+
+inputs:
+  - id: subject
+    type: STRING
+    defaults: "Mathematics"
+  - id: topic
+    type: STRING
+    defaults: "Algebra"
+  - id: grade_level
+    type: STRING
+    defaults: "10th Grade"
+  - id: duration_minutes
+    type: INT
+    defaults: 45
+
+tasks:
+  - id: plan-lesson
+    type: io.kestra.plugin.core.http.Request
+    uri: "http://host.docker.internal:8000/v1/agents/planner"
+    method: POST
+    contentType: application/json
+    body: |
+      {
+        "messages": [
+          {
+            "role": "user",
+            "content": "Create a {{ inputs.duration_minutes }} minute lesson plan for {{ inputs.grade_level }} {{ inputs.subject }} on the topic: {{ inputs.topic }}. Include learning objectives, activities, and assessment criteria."
+          }
+        ]
+      }
+    timeout: PT60S
+
+  - id: retrieve-resources
+    type: io.kestra.plugin.core.http.Request
+    uri: "http://host.docker.internal:8000/v1/agents/retriever"
+    method: POST
+    contentType: application/json
+    body: |
+      {
+        "messages": [
+          {
+            "role": "user",
+            "content": "Find educational resources and references for teaching {{ inputs.topic }} in {{ inputs.subject }} for {{ inputs.grade_level }} students."
+          }
+        ]
+      }
+    timeout: PT60S
+
+  - id: compose-materials
+    type: io.kestra.plugin.core.http.Request
+    uri: "http://host.docker.internal:8000/v1/agents/composer"
+    method: POST
+    contentType: application/json
+    body: |
+      {
+        "messages": [
+          {
+            "role": "user",
+            "content": "Compose teaching materials for {{ inputs.topic }} in {{ inputs.subject }}. Include examples, explanations, and practice problems suitable for {{ inputs.grade_level }}."
+          }
+        ]
+      }
+    timeout: PT60S
+
+  - id: create-assessment
+    type: io.kestra.plugin.core.http.Request
+    uri: "http://host.docker.internal:8000/v1/agents/assessment"
+    method: POST
+    contentType: application/json
+    body: |
+      {
+        "messages": [
+          {
+            "role": "user",
+            "content": "Create an assessment quiz with 5 questions for {{ inputs.topic }} in {{ inputs.subject }} for {{ inputs.grade_level }} students. Include multiple choice and short answer questions."
+          }
+        ]
+      }
+    timeout: PT60S
+
+  - id: summarize-lesson
+    type: io.kestra.plugin.core.http.Request
+    uri: "http://host.docker.internal:8000/v1/agents/summarize"
+    method: POST
+    contentType: application/json
+    body: |
+      {
+        "messages": [
+          {
+            "role": "user",
+            "content": "Create a summary of the lesson on {{ inputs.topic }} in {{ inputs.subject }} for {{ inputs.grade_level }}. Include key takeaways and next steps."
+          }
+        ]
+      }
+    timeout: PT60S
